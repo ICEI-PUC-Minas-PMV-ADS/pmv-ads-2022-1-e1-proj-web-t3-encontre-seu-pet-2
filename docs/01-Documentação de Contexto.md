@@ -14,8 +14,11 @@ O problema encontrado que o projeto visa solucionar, é a falta de sistemas de d
 
 O objetivo geral do projeto é promover uma plataforma digital, onde usuários possam trocar informações sobre seus pets perdidos, facilitando assim, a busca e o retorno do pet para seu lar. 
 Como objetivos específicos, podemos ressaltar: 
+
 ● Fornecer um meio de divulgação de animais domésticos perdidos. 
-● Facilitar a comunicação entre o usuário que perdeu seu animal de estimação e aquele que encontrou um perdido.	 
+
+● Facilitar a comunicação entre o usuário que perdeu seu animal de estimação e aquele que encontrou um perdido.	
+
 ● Criar uma comunidade, onde donos de pet se sintam amparados na sua busca e consigam trocar ideias com outros donos e até mesmo pessoas que acharam os seus bichos, para que o processo de busca fique, de certa forma, mais fácil. 
 
 
