@@ -1,46 +1,31 @@
 # Introdução
-teste
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+
+Segundo dados informados pelo IBGE (Instituto Brasileiro de Geografia e Estatística) o número de animais de estimação inclusos em lares, é superior ao de crianças presentes nos lares das famílias brasileiras. Esse dado é a comprovação de que os pets deixaram de ser o “melhor amigo do homem” e tornaram-se membros familiares, essa definição recebe o nome de multiespécie.  
+O Instituto de Pesquisa Animal Waltham Pet Care Science, afirma que, cuidar de um ser vivo ajuda a combater sensações de solidão e ansiedade, visando que é liberado pelo cuidador o hormônio da ocitocina, também conhecido com o hormônio que promove sentimentos de amor, bem estar e união social.
+A fuga de um pet está entre os piores receios de muitas pessoas, basta um descuido para que o animal saia de casa e se perca do dono. Quando esses animais desaparecem, podem causar uma grande mudança na vida de seus donos, podendo causar danos sérios à saúde. 
+Com tudo, é viável a procura de perfis, páginas em redes sociais como Instagram e Facebook que ajudem a localizar seus animais, mas por não serem uma rede específica para isso acabam tendo que postar muitas vezes sobre o caso do seu “pet” e não obtém tanto sucesso.
+
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+O problema encontrado que o projeto visa solucionar, é a falta de sistemas de divulgação dos animais de estimação perdidos. Essa ausência causa um período maior na procura do pet, por conta da dificuldade em rastreá-lo. 
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral do projeto é promover uma plataforma digital, onde usuários possam trocar informações sobre seus pets perdidos, facilitando assim, a busca e o retorno do pet para seu lar. 
+Como objetivos específicos, podemos ressaltar: 
+● Fornecer um meio de divulgação de animais domésticos perdidos. 
+● Facilitar a comunicação entre o usuário que perdeu seu animal de estimação e aquele que encontrou um perdido.	 
+● Criar uma comunidade, onde donos de pet se sintam amparados na sua busca e consigam trocar ideias com outros donos e até mesmo pessoas que acharam os seus bichos, para que o processo de busca fique, de certa forma, mais fácil. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Segundo dados do IBGE estima se que no Brasil tenha 30 milhões de animais vivendo nas ruas, boa parte desses animais não estão abandonados, e sim perdidos por falta de meios comunicativos voltados a ajudar nas buscas dos animais perdidos. 
+É de grande importância que haja um meio de comunicação, como um site, por exemplo, que permita a interação de terceiros, divulgando algum animal de estimação encontrado ou perdido, o que aumentará as chances de seu dono encontrá-lo. Esse meio será isento de taxas, para que todas as pessoas que encontrarem animais ou perderem, possam usufruir sem depender ou ser impedidos.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Esse projeto tem como público alvo, todas as pessoas que perderam ou encontraram animais que estão perdidos dos donos.  Dessa maneira conseguiremos ajudar o máximo de animais possíveis e seus donos. 
+Dessa forma, estabeleceu-se como público-alvo homens e mulheres com idade acima de 18 anos, que tenham acesso à internet em dispositivos móveis, para que ajude na divulgação de animais e a encontrar animais já divulgados.  
