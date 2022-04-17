@@ -5,37 +5,19 @@ Decidimos começar a criação deste projeto, pois há uma escassez deste tipo d
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Marina Olegario Silva tem 26 anos, é formada em quimica e trabalha como professora em uma universidade, gosta muito de animais principalmente cães. Devido ao sumisso de seu cachorro está a proucura de um meio de comunicação para ajuda-la na divulgação, aumentando as chances de encontrar seu pet.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+João pedro alves tem 39 anos, trabalha como gerente bancário e em seu tempo livre gosta de ajudar animais perdidos a encontrarem seus donos. João está a preocura de meios de comunicação que lhe ajude a postar noticias e fotos de animais encontrados, facilitando assim a busca pelos donos dos animais. 
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`     |PARA ... `MOTIVO/VALOR`                       |
+|--------------------|----------------------------------------|----------------------------------------------|
+|Usuário / busca     | Notificar que perdi meu pet            | Encontrar meu precioso pet                   |
+|Usuario / encontrou | Postar informações de pets encontrados | Conseguir encontrar o dono do pet encontrado |
 
 ## Requisitos
 
@@ -43,46 +25,37 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|ID      | Descrição do Requisito  | Prioridade |
+|--------|-----------------------------------------|----|
+|RF-001 | O site deve ter cadastramento de usuários e seus animais perdidos | Alta | 
+|RF-002 | O site deve ter geolocalização, demonstrando onde o animal foi localizado   | Média |
+|RF-003 | O site deve ter buscas por tipos e espécies de animais. Exemplo: Cachorro, Grande Porte, Husky |Alta|
+|RF-004 | O site deve ter Inclusão/ alteração/ exclusão de informações dos animais cadastrados   |Alta |
+|RF-005 | O site deve notificar por e-mail o usuário quando seu animal for localizado  | Alta |
+|RF-006 | O site deve ter um sistema de recompensa pelos usuários (Usuários interessados em recompensar quem localizar seu animal, poderão fazer uma doação para o terceiro |Baixa  |
+|RF-007 | O site deve permitir que usuários possam comentar nos posts do usuário | Média |
+|RF-008 |O site deve exibir os comentários registrados juntamente com o post dos usuários sobre seus animais perdidos| Média |
+|RF-009 |O site deve permitir o compartilhamento do post de animais perdidos em plataformas de redes sociais |Baixa |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|RNF-001|É desejável que o sistema seja desenvolvido inicialmente em uma plataforma WEB, futuramente podendo ser expandido | Alta | 
+|RNF-002|O site deve obedecer às recomendações da LGPD |  Média | 
+|RNF-003|O site inicialmente possuirá apenas dois idiomas (português, inglês), futuramente modificado para outras linguagens. Haverá também o sistema de tradução |Média |
+|RNF-004|O site deve ter bom nível de contraste entre os elementos da tela em conformidade| Média |
+|RNF-005|O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge)| Alta |
+|RNF-006|O site deverá ser responsivo permitindo a visualização em um celular de forma adequada | Alta |
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir. 
+
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|RT-01|O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 26/06/2022 |
+|RT-02|O aplicativo deve se restringir às tecnologias básicas da Web no Frontend | 
+|RT-03|A equipe não pode subcontratar o desenvolvimento do trabalho | 
 
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
