@@ -1,23 +1,26 @@
-# TÍTULO DO PROJETO
+# Encontre seu Pet
 
-`CURSO`
+`Analise e desenvolvimento de sistemas`
 
-`DISCIPLINA`
+`Web-Frot-End`
 
-`SEMESTRE`
+`1 SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O objetivo geral do projeto é promover uma plataforma digital, onde usuários possam trocar informações sobre seus pets perdidos, facilitando assim, a busca e o retorno do pet para seu lar.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Hiago Filippe De Assis Soares Leão
+* Kaique Henrique Gomes Dos Santos
+* Marcos Guimarães Costa Rocha
+* Marcos Luiz Vidal
+* Matheus Pereira Dionisio
+* Nathália Liberato De Abreu
+* Sávio Andrade Roquette
 
 ## Orientador
 
-* Nome completo do professor 1
+* Joyce Christina De Paiva Carvalho
 
 ## Instruções de utilização
 
