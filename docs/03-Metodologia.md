@@ -37,7 +37,7 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 ## Gerenciamento de Projeto
 
 ### Divisão de Papéis
-Utilizamos a metologia Scrum para realizar a divisão dos papéis que ocorreu da forma abaixo:
+Utilizamos a metodologia Scrum para realizar a divisão dos papéis que ocorreu da forma abaixo:
 
 
 
