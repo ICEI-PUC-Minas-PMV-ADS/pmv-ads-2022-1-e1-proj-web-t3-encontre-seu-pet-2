@@ -1,14 +1,15 @@
 
 # Metodologia
 
-A metodologia utilizada consiste em uma auto organização tanto para a criação de codigos quanto para execultar tarefas.
+A metodologia utilizada consiste em uma auto organização tanto para a criação de codigos quanto para execultar tarefas. Até o presente momento não foi utilizada uma linguagem de programação, e sim métodos de organização e comunicação entre a equipe.
 
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
 foi utilizado para hospedagem do repositório.
-
+![image](https://user-images.githubusercontent.com/41563209/164123872-9be3c85e-cb40-45e0-869f-4fd8f9ea894a.png)
+<p>Na imagem acima, exemplo de um GitFlow</p>
 O projeto segue a seguinte convenção para o nome de branches:
 
 - `main`: versão estável já testada do software
@@ -36,17 +37,32 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 ## Gerenciamento de Projeto
 
 ### Divisão de Papéis
+Utilizamos a metologia Scrum para realizar a divisão dos papéis que ocorreu da forma abaixo:
 
-Apresente a divisão de papéis entre os membros do grupo.
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+
+Scrum Master:
+Hiago
+
+Product Owner:
+Marcos Guimarães
+
+
+Equipe de Desenvolvimento :
+Kaique Henrique
+Marcos Vidal
+Matheus Pereira
+Sávio Andrade
+
+Equipe de Design
+Nathalia 
+
 
 ### Processo
+Para seguir a qualidade de transparência ao qual o método ágil Scrum possui, foi criado uma tabela Kanban para acompanhar o progresso do projeto. Abaixo está a imagem do Kanban ou acessada também por [aqui](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-encontre-seu-pet-2/projects/1?add_cards_query=is%3Aopen)
+![image](https://user-images.githubusercontent.com/41563209/164126917-ae4d3a1f-1325-4d73-9d52-ca714f7671d3.png)
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+
  
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
@@ -58,18 +74,12 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+- Github  [Github](https://github.com/)
+- Microsoft Teams [Microsoft Teams](https://teams.microsoft.com/)
+- Whatsapp [Whatsapp](https://web.whatsapp.com/)
+- Canvas [Canvas](https://www.canva.com/pt_pt/login/)
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
+Escolhemos o Github pela coesão com a metologia ágil permitindo uma transparência de progresso e acompanhamento maior do projeto para e de todos os seus contribuidores. As duas ferramentas de comunicação mais usadas são o Microsoft Teams e o mensageiro Whatsapp, o primeiro por ser um instrumento de comunicação oficial recomendado pela instituição de ensino e o último popular e usado por todos do grupo com maior frequencia, sendo possível contactar todos rapidamente a qualquer momento.
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+
+
