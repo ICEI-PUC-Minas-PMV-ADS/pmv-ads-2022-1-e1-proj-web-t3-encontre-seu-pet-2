@@ -41,20 +41,19 @@ Utilizamos a metologia Scrum para realizar a divisão dos papéis que ocorreu da
 
 
 
-Scrum Master:
+### Scrum Master:
 Hiago
 
-Product Owner:
+### Product Owner:
 Marcos Guimarães
 
+### Equipe de Desenvolvimento :
+Kaique Henrique,
+Marcos Vidal,
+Matheus Pereira,
+Sávio Andrade.
 
-Equipe de Desenvolvimento :
-Kaique Henrique
-Marcos Vidal
-Matheus Pereira
-Sávio Andrade
-
-Equipe de Design
+### Equipe de Design
 Nathalia 
 
 
