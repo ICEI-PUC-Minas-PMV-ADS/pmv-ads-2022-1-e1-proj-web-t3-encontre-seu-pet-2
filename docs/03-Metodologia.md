@@ -74,12 +74,13 @@ Para seguir a qualidade de transparência ao qual o método ágil Scrum possui, 
 
 As ferramentas empregadas no projeto são:
 
-- Github  [Github](https://github.com/)
-- Microsoft Teams [Microsoft Teams](https://teams.microsoft.com/)
-- Whatsapp [Whatsapp](https://web.whatsapp.com/)
-- Canvas [Canvas](https://www.canva.com/pt_pt/login/)
+- [Github](https://github.com/)
+- [Microsoft Teams](https://teams.microsoft.com/)
+- [Whatsapp](https://web.whatsapp.com/)
+- [Canvas](https://www.canva.com/pt_pt/login/)
 
-Escolhemos o Github pela coesão com a metologia ágil permitindo uma transparência de progresso e acompanhamento maior do projeto para e de todos os seus contribuidores. As duas ferramentas de comunicação mais usadas são o Microsoft Teams e o mensageiro Whatsapp, o primeiro por ser um instrumento de comunicação oficial recomendado pela instituição de ensino e o último popular e usado por todos do grupo com maior frequencia, sendo possível contactar todos rapidamente a qualquer momento.
+Escolhemos o Github pela coesão com a metologia ágil permitindo uma transparência de progresso e acompanhamento maior do projeto para e de todos os seus contribuidores.
+As duas ferramentas de comunicação mais usadas são o Microsoft Teams e o mensageiro Whatsapp, o primeiro por ser um instrumento de comunicação oficial recomendado pela instituição de ensino e o último popular e usado por todos do grupo com maior frequencia, sendo possível contactar todos rapidamente a qualquer momento.
 
 
 
