@@ -2,7 +2,7 @@
 
 `Analise e desenvolvimento de sistemas`
 
-`Web-Frot-End`
+`Web-Front-End`
 
 `1 SEMESTRE`
 
