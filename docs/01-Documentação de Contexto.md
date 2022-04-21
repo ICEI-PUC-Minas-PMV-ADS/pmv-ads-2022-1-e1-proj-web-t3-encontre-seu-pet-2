@@ -25,7 +25,8 @@ Como objetivos específicos, podemos ressaltar:
 ## Justificativa
 
 Segundo dados do IBGE estima se que no Brasil tenha 30 milhões de animais vivendo nas ruas, boa parte desses animais não estão abandonados, e sim perdidos por falta de meios comunicativos voltados a ajudar nas buscas dos animais perdidos. 
-É de grande importância que haja um meio de comunicação, como um site, por exemplo, que permita a interação de terceiros, divulgando algum animal de estimação encontrado ou perdido, o que aumentará as chances de seu dono encontrá-lo. Esse meio será isento de taxas, para que todas as pessoas que encontrarem animais ou perderem, possam usufruir sem depender ou ser impedidos.
+É de grande importância que haja um meio de comunicação, como um site, por exemplo, que permita a interação de terceiros, divulgando algum animal de estimação encontrado ou perdido, o que aumentará as chances de seu dono encontrá-lo. Esse meio será isento de taxas, para que todas as pessoas que encontrarem animais ou perderem. 
+### possam usufruir sem depender ou ser impedidos.
 
 
 ## Público-Alvo
