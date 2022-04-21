@@ -14,11 +14,15 @@ João pedro alves tem 39 anos, trabalha como gerente bancário e em seu tempo li
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`     |PARA ... `MOTIVO/VALOR`                       |
-|--------------------|----------------------------------------|----------------------------------------------|
-|Usuário / busca     | Notificar que perdi meu pet            | Encontrar meu precioso pet                   |
-|Usuario / encontrou | Postar informações de pets encontrados | Conseguir encontrar o dono do pet encontrado |
-
+|EU COMO... `PERSONA`  | QUERO/PRECISO ... `FUNCIONALIDADE`     |PARA ... `MOTIVO/VALOR`                       |
+|----------------------|----------------------------------------|----------------------------------------------|
+|Usuário / busca       | Notificar que perdi meu pet            | Encontrar meu precioso pet                   |
+|Usuario / encontrou   | Postar informações de pets encontrados | Conseguir encontrar o dono do pet encontrado |
+|Usuário / busca       | Ser notificado quando meu pet for encontrado  | Para ir ao encotro de meu pet                                             |
+|Usuário / busca       | Ter como bonificar a pessoa que encontrar meu animal perdido  | Fazer com que as pesssoas se interessem mais em proucurar meu pet |
+|Usuario / encontrou   | Poder comentar nas postagens           | Conseguir mais informações sobre o pet perdido, ou informar um possivel encontro |   
+|Usuario / busca       | Poder ver todos os comentarios ja feitos na postagem | Ter informações sobre perguntas ja feitas e repondidas nas postagens |
+|Usuario / busca       | Conseguir compartilhar em outras plataformas | Aumentar o alcance da publicação |
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
@@ -29,7 +33,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |--------|-----------------------------------------|----|
 |RF-001 | O site deve ter cadastramento de usuários e seus animais perdidos | Alta | 
 |RF-002 | O site deve ter geolocalização, demonstrando onde o animal foi localizado   | Média |
-|RF-003 | O site deve ter filtros de buscas por tipo, espécie e características. Exemplo: Cachorro, Husky, Grande Porte |Alta|
+|RF-003 | O site deve ter filtros de buscas por espécie, raça e características. Exemplo: Cachorro, Husky, Grande Porte |Alta|
 |RF-004 | O site deve ter Inclusão/ alteração/ exclusão de informações dos animais cadastrados   |Alta |
 |RF-005 | O site deve notificar por e-mail o usuário quando seu animal for localizado  | Alta |
 |RF-006 | O site deve ter um sistema de recompensa pelos usuários (Usuários interessados em recompensar quem localizar seu animal, poderão fazer uma doação para o terceiro |Baixa  |
