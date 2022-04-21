@@ -29,7 +29,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |--------|-----------------------------------------|----|
 |RF-001 | O site deve ter cadastramento de usuários e seus animais perdidos | Alta | 
 |RF-002 | O site deve ter geolocalização, demonstrando onde o animal foi localizado   | Média |
-|RF-003 | O site deve ter buscas por tipos e espécies de animais. Exemplo: Cachorro, Grande Porte, Husky |Alta|
+|RF-003 | O site deve ter filtros de buscas por tipo, espécie e características. Exemplo: Cachorro, Husky, Grande Porte |Alta|
 |RF-004 | O site deve ter Inclusão/ alteração/ exclusão de informações dos animais cadastrados   |Alta |
 |RF-005 | O site deve notificar por e-mail o usuário quando seu animal for localizado  | Alta |
 |RF-006 | O site deve ter um sistema de recompensa pelos usuários (Usuários interessados em recompensar quem localizar seu animal, poderão fazer uma doação para o terceiro |Baixa  |
@@ -41,9 +41,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001|É desejável que o sistema seja desenvolvido inicialmente em uma plataforma WEB, futuramente podendo ser expandido | Alta | 
-|RNF-002|O site deve obedecer às recomendações da LGPD |  Média | 
-|RNF-003|O site inicialmente possuirá apenas dois idiomas (português, inglês), futuramente modificado para outras linguagens. Haverá também o sistema de tradução |Média |
+|RNF-001|O sistema será desenvolvido inicialmente em uma plataforma WEB, futuramente podendo ser expandido | Alta | 
+|RNF-002|O site deve obedecer às recomendações da LGPD | Média | 
+|RNF-003|O site possuirá apenas o idioma Português | Média |
 |RNF-004|O site deve ter bom nível de contraste entre os elementos da tela em conformidade| Média |
 |RNF-005|O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge)| Alta |
 |RNF-006|O site deverá ser responsivo permitindo a visualização em um celular de forma adequada | Alta |
