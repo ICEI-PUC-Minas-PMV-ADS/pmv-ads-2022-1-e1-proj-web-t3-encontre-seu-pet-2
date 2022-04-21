@@ -43,7 +43,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001|O sistema será desenvolvido inicialmente em uma plataforma WEB, futuramente podendo ser expandido | Alta | 
 |RNF-002|O site deve obedecer às recomendações da LGPD | Média | 
-|RNF-003|O site possuirá apenas o idioma Português | Média |
+|RNF-003|O site possuirá apenas o idioma Português(BR) | Média |
 |RNF-004|O site deve ter bom nível de contraste entre os elementos da tela em conformidade| Média |
 |RNF-005|O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge)| Alta |
 |RNF-006|O site deverá ser responsivo permitindo a visualização em um celular de forma adequada | Alta |
