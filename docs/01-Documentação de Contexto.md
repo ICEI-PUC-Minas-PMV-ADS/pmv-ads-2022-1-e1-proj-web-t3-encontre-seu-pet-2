@@ -31,5 +31,5 @@ Segundo dados do IBGE estima se que no Brasil tenha 30 milhões de animais viven
 
 ## Público-Alvo
 
-Esse projeto tem como público alvo, todas as pessoas que perderam ou encontraram animais que estão perdidos dos donos.  Dessa maneira conseguiremos ajudar o máximo de animais possíveis e seus donos. 
+### Esse projeto tem como público alvo, todas as pessoas que perderam ou encontraram animais que estão perdidos dos donos.  Dessa maneira conseguiremos ajudar o máximo de animais possíveis e seus donos. 
 Dessa forma, estabeleceu-se como público-alvo homens e mulheres com idade acima de 18 anos, que tenham acesso à internet em dispositivos móveis, para que ajude na divulgação de animais e a encontrar animais já divulgados.  
