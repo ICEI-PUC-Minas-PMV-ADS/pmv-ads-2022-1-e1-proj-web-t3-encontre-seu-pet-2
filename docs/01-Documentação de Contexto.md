@@ -3,8 +3,8 @@
 Segundo dados informados pelo IBGE (Instituto Brasileiro de Geografia e Estatística) o número de animais de estimação inclusos em lares, é superior ao de crianças presentes nos lares das famílias brasileiras. Esse dado é a comprovação de que os pets deixaram de ser o “melhor amigo do homem” e tornaram-se membros familiares, essa definição recebe o nome de multiespécie.  
 O Instituto de Pesquisa Animal Waltham Pet Care Science, afirma que, cuidar de um ser vivo ajuda a combater sensações de solidão e ansiedade, visando que é liberado pelo cuidador o hormônio da ocitocina, também conhecido com o hormônio que promove sentimentos de amor, bem estar e união social.
 A fuga de um pet está entre os piores receios de muitas pessoas, basta um descuido para que o animal saia de casa e se perca do dono. Quando esses animais desaparecem, podem causar uma grande mudança na vida de seus donos, podendo causar danos sérios à saúde. 
-Com tudo, é viável a procura de perfis, páginas em redes sociais como Instagram e Facebook que ajudem a localizar seus animais, mas por não serem uma rede específica para isso acabam tendo que postar muitas vezes sobre o caso do seu “pet” e não obtém tanto sucesso.
-
+### Com tudo, é viável a procura de perfis, páginas em redes sociais como Instagram e Facebook que ajudem a localizar seus animais, mas por não serem uma rede específica para isso acabam tendo que postar muitas vezes sobre o caso do seu “pet” e não obtém tanto sucesso.
+### falta referências!
 
 ## Problema
 
