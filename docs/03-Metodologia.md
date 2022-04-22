@@ -65,7 +65,7 @@ As ferramentas empregadas no projeto são:
 - [Whatsapp](https://web.whatsapp.com/)
 - [Canvas](https://www.canva.com/pt_pt/login/)
 
-Escolhemos o Github pela coesão com a metologia ágil permitindo uma transparência de progresso e acompanhamento maior do projeto para e de todos os seus contribuidores.
+Escolhemos o Github pela coesão com a metodologia ágil permitindo uma transparência de progresso e acompanhamento maior do projeto para e de todos os seus contribuidores.
 As duas ferramentas de comunicação mais usadas são o Microsoft Teams e o mensageiro Whatsapp, o primeiro por ser um instrumento de comunicação oficial recomendado pela instituição de ensino e o último popular e usado por todos do grupo com maior frequencia, sendo possível contactar todos rapidamente a qualquer momento.
 
 
