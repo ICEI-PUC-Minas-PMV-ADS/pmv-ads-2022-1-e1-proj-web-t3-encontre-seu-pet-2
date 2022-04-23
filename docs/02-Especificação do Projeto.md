@@ -12,7 +12,9 @@ Decidimos começar a criação deste projeto, pois há uma escassez deste tipo d
 |Idade : 26 anos      |Ocupação : Professora Universitaria |Motivação : Ajudar o próximo, incluindo os animais.   |
 |Frustação : Não encontrar meu animal de estimação que fugiu.| Historia: Devido aos fogos de artifício da virada do ano de 2021 para 2022, meu cachorro ficou com medo e infelizmente fugiu. | Aplicativos: Telegram , LinkedIn ,	Instagram.|
 
-Marina Olegario Silva tem 26 anos, é formada em quimica e trabalha como professora em uma universidade, gosta muito de animais principalmente cães. Devido ao sumisso de seu cachorro está a proucura de um meio de comunicação para ajuda-la na divulgação, aumentando as chances de encontrar seu pet.
+|João pedro alves     |              |                       | 
+|---------------------|--------------|-----------------------|
+|Idade : 39 anos      |Ocupação :    |Motivação :            |
 
 João pedro alves tem 39 anos, trabalha como gerente bancário e em seu tempo livre gosta de ajudar animais perdidos a encontrarem seus donos. João está a preocura de meios de comunicação que lhe ajude a postar noticias e fotos de animais encontrados, facilitando assim a busca pelos donos dos animais. 
 
