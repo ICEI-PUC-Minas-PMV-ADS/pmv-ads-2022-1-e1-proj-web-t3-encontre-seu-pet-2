@@ -7,16 +7,16 @@ Decidimos começar a criação deste projeto, pois há uma escassez deste tipo d
 
 
 
-|Marina Olegario Silva|              |                      |
-|---------------------|--------------|-----------------------|
-|Idade : 26 anos      |Ocupação : Professora Universitaria |Motivação : Ajudar o próximo, incluindo os animais.   |
-|Frustação : Não encontrar meu animal de estimação que fugiu.| Historia: Devido aos fogos de artifício da virada do ano de 2021 para 2022, meu cachorro ficou com medo e infelizmente fugiu. | Aplicativos: Telegram , LinkedIn ,	Instagram.|
-
-|João pedro alves     |              |                       | 
-|---------------------|--------------|-----------------------|
-|Idade : 39 anos      |Ocupação :    |Motivação :            |
-
-João pedro alves tem 39 anos, trabalha como gerente bancário e em seu tempo livre gosta de ajudar animais perdidos a encontrarem seus donos. João está a preocura de meios de comunicação que lhe ajude a postar noticias e fotos de animais encontrados, facilitando assim a busca pelos donos dos animais. 
+|Marina Olegario      |                |                       |
+|---------------------|----------------|-----------------------|
+|<b>Idade</b> : 26 anos      |<b>Ocupação</b> : Professora Universitaria |<b>Motivação</b> : Localizar meu pet perdido.   |
+|<b>Frustação</b> : Não encontrar meu animal de estimação que fugiu.|<b>Historia</b> : Devido aos fogos de artifício da virada do ano de 2021 para 2022, meu cachorro ficou com medo e infelizmente fugiu. |<b>Aplicativos</b>: Telegram , LinkedIn ,	Instagram.|
+ 
+ 
+|João pedro alves     |                |                       | 
+|---------------------|----------------|-----------------------|
+|<b>Idade</b> : 39 anos      |<b>Ocupação</b> :Gerente bancário    |<b>Motivação</b> :Ajudar o indivíduo que está a busca do animal perdido. |
+|<b>Frustações</b> : Achar um animal de estimação e não encontrar seu dono.|<b>Historia</b> : Já tive um pet que fugiu anos atrás e o encontramos através da ajuda de outras pessoas nas redes sociais. Desde então, ajudou outras pessoas encontrando pets perdidos e compartilhando através das redes sociais postagens de animais de estimação. |<b>Aplicativos</b> : 	Facebook ,	LinkedIn , Instagram.  |
 
 
 ## Histórias de Usuários
@@ -25,13 +25,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`  | QUERO/PRECISO ... `FUNCIONALIDADE`     |PARA ... `MOTIVO/VALOR`                       |
 |----------------------|----------------------------------------|----------------------------------------------|
-|Usuário / busca       | Notificar que perdi meu pet            | Encontrar meu precioso pet                   |
-|Usuario / encontrou   | Postar informações de pets encontrados | Conseguir encontrar o dono do pet encontrado |
-|Usuário / busca       | Ser notificado quando meu pet for encontrado  | Para ir ao encotro de meu pet                                             |
-|Usuário / busca       | Ter como bonificar a pessoa que encontrar meu animal perdido  | Fazer com que as pesssoas se interessem mais em proucurar meu pet |
-|Usuario / encontrou   | Poder comentar nas postagens           | Conseguir mais informações sobre o pet perdido, ou informar um possivel encontro |   
-|Usuario / busca       | Poder ver todos os comentarios ja feitos na postagem | Ter informações sobre perguntas ja feitas e repondidas nas postagens |
-|Usuario / busca       | Conseguir compartilhar em outras plataformas | Aumentar o alcance da publicação |
+|Marina Olegario    | Notificar que perdi meu pet            | Encontrar meu precioso pet                   |
+|João pedro alves   | Postar informações de pets encontrados | Conseguir encontrar o dono do pet encontrado |
+|Marina Olegario    | Ser notificado quando meu pet for encontrado  | Para ir ao encotro de meu pet                                             |
+|Marina Olegario    | Ter como bonificar a pessoa que encontrar meu animal perdido  | Fazer com que as pesssoas se interessem mais em proucurar meu pet |
+|João pedro alves   | Poder comentar nas postagens           | Conseguir mais informações sobre o pet perdido, ou informar um possivel encontro |   
+|João pedro alves   | Poder ver todos os comentarios ja feitos na postagem | Ter informações sobre perguntas ja feitas e repondidas nas postagens |
+|Marina Olegario    | Conseguir compartilhar em outras plataformas | Aumentar o alcance da publicação |
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
