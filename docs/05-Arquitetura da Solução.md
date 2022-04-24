@@ -1,7 +1,5 @@
 # Arquitetura da Solução
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
-
 Nesta seção são apresentados os detalhes técnicos criados pela equipe, tratando dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
 
 ## Diagrama de componentes
