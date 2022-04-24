@@ -50,7 +50,7 @@ Nathalia
 
 
 ### Processo
-Para seguir a qualidade de transparência ao qual o método ágil Scrum possui, foi criado uma tabela Kanban para acompanhar o progresso do projeto. Abaixo está a imagem do Kanban ou acessada também por [aqui](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-encontre-seu-pet-2/projects/1?add_cards_query=is%3Aopen)
+Para seguir a qualidade de transparência ao qual o método ágil Scrum possui, foi criado uma tabela Kanban para acompanhar o progresso do projeto. Abaixo esta a imagem do Kanban ou acessada também por [aqui](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-encontre-seu-pet-2/projects/1?add_cards_query=is%3Aopen)
 ![image](https://user-images.githubusercontent.com/41563209/164126917-ae4d3a1f-1325-4d73-9d52-ca714f7671d3.png)
 
 
