@@ -53,7 +53,6 @@ para a Tela 2.
 
 ![Exemplo de UserFlow](img/userflow.jpg)
 
- ![Exemplo de UserFlow](img/userflow.jpg) -->
 
 
  ## Tecnologias Utilizadas -->
