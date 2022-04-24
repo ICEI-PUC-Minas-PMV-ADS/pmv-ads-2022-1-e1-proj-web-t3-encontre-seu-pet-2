@@ -6,18 +6,25 @@ Nesta seção são apresentados os detalhes técnicos criados pela equipe, trata
 
 Os componentes que fazem parte da solução são apresentados na Figura que se segue.
 
-![Diagrama de Componentes](https://user-images.githubusercontent.com/103541634/164843491-0cf081dd-a514-4a1d-8616-c2affbf671c6.png)
+![Diagrama de Componentes](https://user-images.githubusercontent.com/103541634/164965622-25a356b6-5663-4142-84bd-c4be80d75cdf.png)
 <!-- <center>Figura XX - Arquitetura da Solução</center> -->
+Arquitetura da Solução
 
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
   - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
    - **Local Storage** - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
-     - **Canais** - seções de notícias apresentadas 
-     - **Comentários** - registro de opiniões dos usuários sobre as notícias
-     - **Preferidas** - lista de notícias mantidas para leitura e acesso posterior
- - **News API** - plataforma que permite o acesso às notícias exibidas no site.
- - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
+     - **Perfil** - seção que mostra as informações do usuário.
+     - **Cadastro** - registro de dados cadastrais de cada usuário (Criar conta).
+     - **Contatos** - a pessoa que fez a publicação.
+ - **User flow** - é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app, essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
+ - **Hospedagem** - Azure.
+
+## Tecnologias Utilizadas
+
+As tecnologias utilizadas foram: CSS, HTML, JavaScript, Visual Sutudio Code, Azure.
+
+![Diagrama de Componentes](https://user-images.githubusercontent.com/103541634/164966201-270fb724-402b-4c6f-afb1-c1bcb9239494.png)
 
 ## Hospedagem
 
