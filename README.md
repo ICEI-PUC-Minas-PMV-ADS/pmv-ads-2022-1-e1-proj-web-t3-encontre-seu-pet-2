@@ -11,7 +11,6 @@ O objetivo geral do projeto é promover uma plataforma digital, onde usuários p
 ## Integrantes
 
 * Hiago Filippe De Assis Soares Leão
-* Kaique Henrique Gomes Dos Santos
 * Marcos Guimarães Costa Rocha
 * Marcos Luiz Vidal
 * Matheus Pereira Dionisio
