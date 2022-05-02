@@ -9,7 +9,9 @@ O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em 
 ### [0.1.0] - DD/MM/AAAA
 #### Adicionado
 - Adicionado ...
-- <style>
+- 
+<html>
+<style>
 .subscribe-button{
   background-color:red;
   color:white;
@@ -24,4 +26,7 @@ O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em 
 }
 </style>
 
-<button class="subscribe-button"> SUBSCRIBE</button>
+<button class="subscribe-button">
+  SUBSCRIBE
+</button>
+</html>
