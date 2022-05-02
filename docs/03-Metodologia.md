@@ -40,7 +40,6 @@ Hiago
 Marcos Guimarães
 
 ### Equipe de Desenvolvimento :
-Kaique Henrique,
 Marcos Vidal,
 Matheus Pereira,
 Sávio Andrade.
