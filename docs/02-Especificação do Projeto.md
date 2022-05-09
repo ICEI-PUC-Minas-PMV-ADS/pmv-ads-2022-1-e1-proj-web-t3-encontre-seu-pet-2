@@ -5,9 +5,7 @@ Decidimos começar a criação deste projeto, pois há uma escassez deste tipo d
 
 ## Personas
 
-
-
-|Marina Olegario      |                |                       |
+|![0000000 (2)](https://user-images.githubusercontent.com/103226164/167516350-8e2c5c17-3715-47ca-b3fd-043a6bb6b458.jpeg)|Marina Olegario  |   |
 |---------------------|----------------|-----------------------|
 |<b>Idade</b> : 26 anos      |<b>Ocupação</b> : Professora Universitaria |<b>Motivação</b> : Localizar meu pet perdido.   |
 |<b>Frustação</b> : Não encontrar meu animal de estimação que fugiu.|<b>Historia</b> : Devido aos fogos de artifício da virada do ano de 2021 para 2022, meu cachorro ficou com medo e infelizmente fugiu. |<b>Aplicativos</b>: Telegram , LinkedIn ,	Instagram.|
