@@ -5,11 +5,6 @@ O Instituto de Pesquisa Animal Waltham Pet Care Science, afirma que, cuidar de u
 A fuga de um pet está entre os piores receios de muitas pessoas, basta um descuido para que o animal saia de casa e se perca do dono. Quando esses animais desaparecem, há uma grande mudança na vida de seus donos, podendo causar danos sérios à saúde. 
 Mesmo com a possibilidade de troca de informações em redes sociais, como Instagram e Facebook, a falta de uma seção dedicada ao assunto dificulta a procura. O site Encontre seu Pet, busca sanar a falta de aplicativos dedicados a busca de animais perdidos.
 
-### Referências:
-http://institutopetbrasil.com/imprensa/censo-pet-1393-milhoes-de-animais-de-estimacao-no-brasil/
-https://www.waltham.com/science/human-animal-interaction
-
-
 ## Problema
 
 O problema encontrado que o projeto visa solucionar, é a falta de sistemas de divulgação dos animais de estimação perdidos. Essa ausência causa um período maior na procura do pet, por conta da dificuldade em rastreá-lo. 
