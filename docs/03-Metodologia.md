@@ -34,18 +34,19 @@ Utilizamos a metodologia Scrum para realizar a divisão dos papéis que ocorreu 
 
 
 ### Scrum Master:
-Hiago
+- Hiago Filippe De Assis Soares Leão
+
 
 ### Product Owner:
-Marcos Guimarães
+- Marcos Guimarães Costa Rocha
 
 ### Equipe de Desenvolvimento :
-Marcos Vidal,
-Matheus Pereira,
-Sávio Andrade.
+- Marcos Luiz Vidal
+- Matheus Pereira Dionisio
+- Sávio Andrade Roquette
 
 ### Equipe de Design
-Nathalia 
+- Nathália Liberato De Abreu
 
 
 ### Processo
