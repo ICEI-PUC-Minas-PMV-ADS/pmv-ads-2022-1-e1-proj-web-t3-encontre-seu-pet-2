@@ -24,7 +24,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`  | QUERO/PRECISO ... `FUNCIONALIDADE`     |PARA ... `MOTIVO/VALOR`                       |
 |----------------------|----------------------------------------|----------------------------------------------|
 |Marina Olegario    | Notificar que perdi meu pet            | Encontrar meu precioso pet                   |
-|João pedro alves   | Postar informações de pets encontrados | Conseguir encontrar o dono do pet encontrado |
+|João pedro alves   | Postar informações de pets encontrados como: a espêcie, raça e caracteristicas do animal | Conseguir encontrar o dono do pet encontrado |
 |Marina Olegario    | Ser notificado quando meu pet for encontrado  | Para ir ao encotro de meu pet                                             |
 |Marina Olegario    | Ter como bonificar a pessoa que encontrar meu animal perdido  | Fazer com que as pesssoas se interessem mais em proucurar meu pet |
 |João pedro alves   | Poder comentar nas postagens           | Conseguir mais informações sobre o pet perdido, ou informar um possivel encontro |   
