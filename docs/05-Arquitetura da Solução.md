@@ -18,11 +18,11 @@ A solução implementada conta com os seguintes módulos:
      - **Cadastro** - registro de dados cadastrais de cada usuário (Criar conta).
      - **Contatos** - a pessoa que fez a publicação.
  - **User flow** - é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app, essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
- - **Hospedagem** - Azure.
+ - **Hospedagem** - Github.
 
 ## Tecnologias Utilizadas
 
-As tecnologias utilizadas foram: CSS, HTML, JavaScript, Visual Sutudio Code, Azure.
+As tecnologias utilizadas foram: CSS, HTML, JavaScript, Visual Sutudio Code, Github.
 
 ![Diagrama de Componentes](https://user-images.githubusercontent.com/103541634/164966201-270fb724-402b-4c6f-afb1-c1bcb9239494.png)
 
