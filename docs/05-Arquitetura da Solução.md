@@ -28,5 +28,5 @@ As tecnologias utilizadas foram: CSS, HTML, JavaScript, Visual Sutudio Code, Azu
 
 ## Hospedagem
 
-O site usará como serviço de hospedagem a plataforma (Azure).
-[Azure](https://azure.microsoft.com/pt-br/)
+O site usará como serviço de hospedagem a plataforma (Github).
+[Github](https://github.com/)
