@@ -11,7 +11,7 @@ Decidimos começar a criação deste projeto, pois há uma escassez deste tipo d
 |<b>Frustação</b> : Não encontrar meu animal de estimação que fugiu.|<b>Historia</b> : Devido aos fogos de artifício da virada do ano de 2021 para 2022, meu cachorro ficou com medo e infelizmente fugiu. |<b>Aplicativos</b>: Telegram , LinkedIn ,	Instagram.|
  
  
-|João pedro alves     |                |                       | 
+| ![WhatsApp Image 2022-05-09 at 20 45 41 (2)](https://user-images.githubusercontent.com/79429140/167517089-3ac72bd9-7ada-45e6-a329-b95ae90aa4d4.jpeg)| João pedro alves | |
 |---------------------|----------------|-----------------------|
 |<b>Idade</b> : 39 anos      |<b>Ocupação</b> :Gerente bancário    |<b>Motivação</b> :Ajudar o indivíduo que está a busca do animal perdido. |
 |<b>Frustações</b> : Achar um animal de estimação e não encontrar seu dono.|<b>Historia</b> : Já tive um pet que fugiu anos atrás e o encontramos através da ajuda de outras pessoas nas redes sociais. Desde então, ajudou outras pessoas encontrando pets perdidos e compartilhando através das redes sociais postagens de animais de estimação. |<b>Aplicativos</b> : 	Facebook ,	LinkedIn , Instagram.  |
