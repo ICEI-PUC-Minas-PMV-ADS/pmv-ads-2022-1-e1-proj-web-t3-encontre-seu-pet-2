@@ -1,41 +1,101 @@
 <!DOCTYPE html>
+<html lang="pt-br">
 
-<!--- <body> hi there, body is here</body --> 
-<!--- <link rel="" href="css/base.css" -->  
 <head>
-  <meta name="viewport" content="width-device-width",initial-scale="1.0">
-    <title><!--- Aqui seria o título --> </title>
-    <link rel="stylesheet" href="style.css">
-
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap" rel="stylesheet">
-
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Encontre seu Pet</title>
 </head>
+
 <body>
-    <section class="header">  
-      </div> 
-      <nav>
-           <a href="index.html"><img src="image/Logo.jpeg"></a>
-           <div class="nav-links">
-              <ul>
-                <input type="text" placeholder="Procure...">
-                  <li><a href="">Login</a></li>
-                  <li><a href="">Inscreva-se</a></li>
-              </u1>
-           </div>
-        </nav>
-      <div class="nav-links3">      
-        <h1>Texto 1</h1>
-        <h1>Texto 2</h1>
-        <h1>Texto 3</h1>
-        <h1>Texto 4</h1>
-        <h1>Texto 5</h1>
-      </div>
-      <div class="baseboard">
-        <a href="mailto:encontreseupet@encontreseupet.com.br?subject=DÃēvida!&amp;body=Escreva aqui a sua dÃēvida!,Aguardamos seu contato">Fale Conosco: encontreseupet@encontreseupet.com.br </a>
-      </div>
-    </section>
+    <div class="container">
+        <div class="form-image">
+            <img src="assets/img/undraw_good_doggy_-4-wfq (1).svg" />
+        </div>
+        <div class="form">
+            <form action="#">
+                <div class="form-header">
+                    <div class="title">
+                        <h1>Perfil do Pet</h1>
+                    </div>
+                    <div class="login-button">
+                        <button><a href="#">Perfil</a></button>
+                    </div>
+                </div>
+
+                <div class="input-group">
+                    <div class="input-box">
+                        <small>Nome do Pet</small>
+                        <input id="Nome do Pet" type="text" name="Nome do Pet" placeholder="Digite o nome do pet"
+                            required>
+                    </div>
+
+                    <div class="input-box">
+                        <small>Nome de Contato</small>
+                        <input id="Nome para Contato" type="text" name="Nome para Contato"
+                            placeholder="Nome do responsável" required>
+                    </div>
+
+                    <div class="input-box">
+                        <small>E-mail</small>
+                        <input id="E-mail" type="email" name="E-mail" placeholder="Digite seu E-mail" required>
+                    </div>
+
+                    <div class="input-box">
+                        <small>Telefone de Contato</small>
+                        <input id="number" type="tel" name="number" placeholder="(xx) xxxxx-xxxx" required>
+                    </div>
+
+                    <div class="input-box">
+                        <small>Segundo n°</small>
+                        <input id="number" type="tel" name="number" placeholder="(xx) xxxxx-xxxx">
+                    </div>
+                </div>
+
+                <div class="gender-inputs">
+                    <div class="gender-title">
+                        <h6>Gênero</h6>
+                    </div>
+
+                    <div class="gender-group">
+                        <div class="gender-input">
+                            <input type="radio" id="female" name="gender">
+                            <small form="female">Fêmea</small>
+
+                            <div class="gender-group">
+                                <div class="gender-input">
+                                    <input type="radio" id="male" name="gender">
+                                    <small form="male">Macho</small>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="row">
+                        <small for="Fale sobre seu Pet"></small>
+                    </div>
+                    <!--Para colocar uma caixa do tipo "file" você tem que colocar nas colunas detro de FORM-->
+                    <div class="row">
+                        <textarea name="" id="" cols="40" rows="10"></textarea>
+                    </div>
+                    <div class="row">
+                        <input type="file">
+                    </div>
+                    <div class="buttons">
+                        <!--Criação de botões de "Enviar e Resetar"-->
+                        <input type="submit">
+                        <input type="reset">
+                    </div>
+                </div>
+            </form>
+
+        </div>
+    </div>
+
 </body>
 
-
-</html> 
+</html>
