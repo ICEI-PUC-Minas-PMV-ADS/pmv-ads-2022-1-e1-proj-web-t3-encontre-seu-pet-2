@@ -13,7 +13,7 @@ Arquitetura da Solução
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
   - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
-   - **Local Storage** - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
+   - **Local Storage** - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em Github. São eles: 
      - **Perfil** - seção que mostra as informações do usuário.
      - **Cadastro** - registro de dados cadastrais de cada usuário (Criar conta).
      - **Contatos** - a pessoa que fez a publicação.
