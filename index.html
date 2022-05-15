@@ -1,101 +1,57 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
 
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="assets/css/style.css">
     <title>Encontre seu Pet</title>
-</head>
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" type="text/css" href="index.css">
+</head> 
+    <body>
 
-<body>
-    <div class="container">
-        <div class="form-image">
-            <img src="assets/img/undraw_good_doggy_-4-wfq (1).svg" />
-        </div>
-        <div class="form">
-            <form action="#">
-                <div class="form-header">
-                    <div class="title">
-                        <h1>Perfil do Pet</h1>
-                    </div>
-                    <div class="login-button">
-                        <button><a href="#">Perfil</a></button>
-                    </div>
+        <header class="cabecalho">
+            <div>
+                 <img class="cabecalho-logo" src="logopet.png" alt="logo">
+            </div>
+            <nav class="cabecalho-menu">
+                <div>
+                <a class="cabecalho-menu-item">Pagina inicial</a>
+                <a class="cabecalho-menu-item">Postagem de pet</a>
+                </div>
+            </nav>
+        </header>
+
+        <main class="conteudo">
+            <div> <h1 class="noticias-texto">Noticias</h1></div>
+            <section class="conteudo-noticias">
+                <div>
+                    <img class="imagem" src="pet.cachorro2.jpg">
+                    <p> Cachorro encontrado na praça da liberdade em Belo Horizonte (MG)</p>
+                    <p> </p>
                 </div>
 
-                <div class="input-group">
-                    <div class="input-box">
-                        <small>Nome do Pet</small>
-                        <input id="Nome do Pet" type="text" name="Nome do Pet" placeholder="Digite o nome do pet"
-                            required>
-                    </div>
-
-                    <div class="input-box">
-                        <small>Nome de Contato</small>
-                        <input id="Nome para Contato" type="text" name="Nome para Contato"
-                            placeholder="Nome do responsável" required>
-                    </div>
-
-                    <div class="input-box">
-                        <small>E-mail</small>
-                        <input id="E-mail" type="email" name="E-mail" placeholder="Digite seu E-mail" required>
-                    </div>
-
-                    <div class="input-box">
-                        <small>Telefone de Contato</small>
-                        <input id="number" type="tel" name="number" placeholder="(xx) xxxxx-xxxx" required>
-                    </div>
-
-                    <div class="input-box">
-                        <small>Segundo n°</small>
-                        <input id="number" type="tel" name="number" placeholder="(xx) xxxxx-xxxx">
-                    </div>
+                <div>   
+                    <img class="imagem" src="pet cachorro4.jpg">
+                    <p> Cachorro desparecido no bairro eldorado em contagem (MG)</p>
                 </div>
 
-                <div class="gender-inputs">
-                    <div class="gender-title">
-                        <h6>Gênero</h6>
-                    </div>
-
-                    <div class="gender-group">
-                        <div class="gender-input">
-                            <input type="radio" id="female" name="gender">
-                            <small form="female">Fêmea</small>
-
-                            <div class="gender-group">
-                                <div class="gender-input">
-                                    <input type="radio" id="male" name="gender">
-                                    <small form="male">Macho</small>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    <div class="row">
-                        <small for="Fale sobre seu Pet"></small>
-                    </div>
-                    <!--Para colocar uma caixa do tipo "file" você tem que colocar nas colunas detro de FORM-->
-                    <div class="row">
-                        <textarea name="" id="" cols="40" rows="10"></textarea>
-                    </div>
-                    <div class="row">
-                        <input type="file">
-                    </div>
-                    <div class="buttons">
-                        <!--Criação de botões de "Enviar e Resetar"-->
-                        <input type="submit">
-                        <input type="reset">
-                    </div>
+                <div>
+                    <img class="imagem" src="pet gato1.jpg">
+                    <p> Gato encontrado no bairro Vila Cristina em Betim (MG) </p>
                 </div>
-            </form>
 
-        </div>
-    </div>
+            </section>
+        </main> 
 
-</body>
-
+            <footer class="rodape">
+                 <section class="texto-segundario">
+                    <h2>Perdeu ou encontrou um Pet?</h2>
+                    <p>Divulgue seu pet perdido ou ajude pessoas a encontrarem seus Pets</p>  
+                 </section>
+            </footer>
+       
+    </body>
+   
 </html>
