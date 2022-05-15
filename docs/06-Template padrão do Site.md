@@ -1,12 +1,32 @@
 # Template padrão do site
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
+O layout padrão do site corresponde ao projeto de interface, conforme a figura a seguir.
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+![layout 1](https://user-images.githubusercontent.com/103226164/168493205-9f5172f6-5604-49a1-b772-f93efcfb40a8.png)
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+O template criado está disponível no site http://github.com/.....  e é composto pelos seguintes 
+layouts: 
+-  tela principal
+-  tela de login
+-  tela de novidades
+-  tela de cadastro de animais
+ 
+### Tela principal
+
+Tela principal abrange todas as visualizações iniciais do site e a lista de notícias gerais.
+
+### Tela de login
+
+Essa tela possibilita ao usuario criar uma conta ou entrar em sua conta.
+
+### Tela de novidades
+
+Local onde é exibido as novas postagens.
+
+![tela de novidades](https://user-images.githubusercontent.com/103226164/168494333-f914169d-61d7-47aa-989a-cb7a07fdccbd.png)
+
+### Tela de cadastro de animais
+
+
+
+
