@@ -15,9 +15,11 @@ layouts:
 
 Tela principal abrange todas as visualizações iniciais do site e a lista de notícias gerais.
 
-### Tela de login
+### Tela de cadastro/login
 
 Essa tela possibilita ao usuario criar uma conta ou entrar em sua conta.
+
+![PAGINA DE CADASTRO](https://user-images.githubusercontent.com/103226164/168504772-562b2eb6-90fe-447d-97f0-5a252574feee.jpeg)
 
 ### Tela de novidades
 
