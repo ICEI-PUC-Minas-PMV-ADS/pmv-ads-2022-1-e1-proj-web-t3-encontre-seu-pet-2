@@ -1,101 +1,113 @@
 <!DOCTYPE html>
-<html lang="pt-br">
-
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="assets/css/style.css">
-    <title>Encontre seu Pet</title>
+    <link rel="stylesheet" href="index.css">
+    <title>FeedAnimais</title>
 </head>
-
 <body>
-    <div class="container">
-        <div class="form-image">
-            <img src="assets/img/undraw_good_doggy_-4-wfq (1).svg" />
+    
+    <header>
+        <img src="Logo/LogoEncontreSeuPet.jpeg" class="logo">
+
+             <div class="menu">
+                 <ul>
+                    <li> <a href="#">Cadastre-se</a/li>
+                    <li> <a href="#">Página Inicial</a/li>
+                 </ul>
+             </div>
+               
+    </header>
+
+    
+
+ <main>
+        
+    <nav>
+        <div class="TextoFiltro">
+            <h2>
+            Pesquisa:
+        </h2> 
+        <h3 class="TxtFiltro">
+            Pesquise por Palavras Chave.
+        <h3>
         </div>
-        <div class="form">
-            <form action="#">
-                <div class="form-header">
-                    <div class="title">
-                        <h1>Perfil do Pet</h1>
-                    </div>
-                    <div class="login-button">
-                        <button><a href="#">Perfil</a></button>
-                    </div>
-                </div>
-
-                <div class="input-group">
-                    <div class="input-box">
-                        <small>Nome do Pet</small>
-                        <input id="Nome do Pet" type="text" name="Nome do Pet" placeholder="Digite o nome do pet"
-                            required>
-                    </div>
-
-                    <div class="input-box">
-                        <small>Nome de Contato</small>
-                        <input id="Nome para Contato" type="text" name="Nome para Contato"
-                            placeholder="Nome do responsável" required>
-                    </div>
-
-                    <div class="input-box">
-                        <small>E-mail</small>
-                        <input id="E-mail" type="email" name="E-mail" placeholder="Digite seu E-mail" required>
-                    </div>
-
-                    <div class="input-box">
-                        <small>Telefone de Contato</small>
-                        <input id="number" type="tel" name="number" placeholder="(xx) xxxxx-xxxx" required>
-                    </div>
-
-                    <div class="input-box">
-                        <small>Segundo n°</small>
-                        <input id="number" type="tel" name="number" placeholder="(xx) xxxxx-xxxx">
-                    </div>
-                </div>
-
-                <div class="gender-inputs">
-                    <div class="gender-title">
-                        <h6>Gênero</h6>
-                    </div>
-
-                    <div class="gender-group">
-                        <div class="gender-input">
-                            <input type="radio" id="female" name="gender">
-                            <small form="female">Fêmea</small>
-
-                            <div class="gender-group">
-                                <div class="gender-input">
-                                    <input type="radio" id="male" name="gender">
-                                    <small form="male">Macho</small>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+       <input class="SearchBar" type="search">
 
 
-                    <div class="row">
-                        <small for="Fale sobre seu Pet"></small>
-                    </div>
-                    <!--Para colocar uma caixa do tipo "file" você tem que colocar nas colunas detro de FORM-->
-                    <div class="row">
-                        <textarea name="" id="" cols="40" rows="10"></textarea>
-                    </div>
-                    <div class="row">
-                        <input type="file">
-                    </div>
-                    <div class="buttons">
-                        <!--Criação de botões de "Enviar e Resetar"-->
-                        <input type="submit">
-                        <input type="reset">
-                    </div>
-                </div>
-            </form>
+        <div class="filtros">
+            <div class="TextoFiltro">
+                 <H2>
+                    Animal           
+                 </H2>
+            </div>
+
+            <input class="FiltroEspecie" id="Cachorro" type="checkbox">
+            <label for="Cachorro">Cachorro</label></br>
+
+            <input class="FiltroEspecie" id="gato" type="checkbox">
+            <label for="Gato">Gato</label></br>
+
+            <div class="TextoFiltro">
+                    <h2>
+                    Porte
+                </h2>
+            </div>
+            
+
+            <input class="FiltroEspecie" id="Grande" type="checkbox">
+            <label for="Grande">Grande</label><br> 
+            <input class="FiltroEspecie" id="Médio" type="checkbox">
+            <label for="Médio">Médio</label></br> 
+            <input class="FiltroEspecie" id="Pequeno" type="checkbox">
+            <label for="Pequeno">Pequeno</label> 
+            
+        
+     </nav>
+
+    <section>
+
+         <h1 class="titulo">Feed Animais</h1>   
+     
+        <div class="imagem-gato">
+
+            <img class="gatodebotas" src="GatoDeBotas/gato de botas.jpg">
+
+             <p>
+                Gato de Botas;
+                Golden British Shorthair;
+                Médio Porte;
+                Usa chapéu;
+            </p>
 
         </div>
-    </div>
+         
+        <div class="imagem-bolt">
 
+            <img class="bolt" src="Bolt/bolt.png">
+
+            <p>
+                Bolt;
+                White German Sheperd;
+                Grande Porte;
+                Usa colar;
+
+            </p>
+
+
+
+        </div>     
+    
+
+    </section>
+
+    </main>
+
+</div>
+    
+
+    
 </body>
-
 </html>
