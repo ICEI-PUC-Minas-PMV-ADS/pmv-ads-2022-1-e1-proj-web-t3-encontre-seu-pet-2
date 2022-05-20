@@ -31,6 +31,10 @@ Local onde é exibido as novas postagens.
 
 ### Tela de cadastro de animais
 
+Esta é a parte onde as pessoas irão definir as caracteristicas do seu animal.
+
+![Tela de Cadastro Pet](https://user-images.githubusercontent.com/79429140/169433180-c32d733c-7313-4d37-a48a-6b56b85f8dc7.png)
+
 
 
 
