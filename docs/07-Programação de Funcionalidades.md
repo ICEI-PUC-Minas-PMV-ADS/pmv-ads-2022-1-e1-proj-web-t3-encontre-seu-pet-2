@@ -8,6 +8,7 @@ apresentadas na sequência.
 
 A tela de cadastro de pet possibilita a postagem do pet com caracteristicas da especie do animal  e o local onde o pet foi encontrado/perdido.
 
+![Tela de Cadastro de Animais](https://user-images.githubusercontent.com/79429140/169433500-2d8231ee-2ef1-4abf-9399-ee26e9ce2b2f.png)
 
 
 **Requisitos atendidos**
