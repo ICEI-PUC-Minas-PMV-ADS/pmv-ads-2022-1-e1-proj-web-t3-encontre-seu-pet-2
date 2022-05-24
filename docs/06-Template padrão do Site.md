@@ -2,7 +2,7 @@
 
 O layout padrão do site corresponde ao projeto de interface, conforme a figura a seguir.
 
-![layout 1](https://user-images.githubusercontent.com/103226164/168493205-9f5172f6-5604-49a1-b772-f93efcfb40a8.png)
+![layout 1 (1)](https://user-images.githubusercontent.com/103226164/169923652-7e273557-300b-4989-a91f-73cb82564174.png)
 
 O template criado está disponível no site http://github.com/.....  e é composto pelos seguintes 
 layouts: 
