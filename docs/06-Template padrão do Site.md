@@ -10,6 +10,7 @@ layouts:
 -  tela de login
 -  tela de novidades
 -  tela de cadastro de animais
+-  tela de avaliação do cliente
  
 ### Tela principal
 
