@@ -35,5 +35,8 @@ Esta é a tela de cadastramento do animal perdido
 
 ![Tela de Cadastro de Animais](https://user-images.githubusercontent.com/79429140/169433500-2d8231ee-2ef1-4abf-9399-ee26e9ce2b2f.png)
 
+### Tela de avaliação do cliente
 
+Nessa tela o cliente avalia o programa
 
+![Tela de avaliação do cliente](https://user-images.githubusercontent.com/103541634/170541481-be80e8de-69fe-4ed7-b0dc-d9a60af78992.png)
