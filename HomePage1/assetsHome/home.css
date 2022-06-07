@@ -39,3 +39,8 @@
     margin-top: 180px;
     width: 100%; 
 }
+
+.login{
+    display: flex;
+    margin-left: 90%;
+}
