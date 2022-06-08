@@ -4,6 +4,13 @@ Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcion
 do sistema. O respectivo endereço (URL) e outras orientações de acesso são são 
 apresentadas na sequência.
 
+### Tela Inicial ou também conhecida como Homepage
+A tela inicial, ou Homepage é o primeiro contato do usuário com a página. Nela se encontra o acesso as demais páginas e conteúdo dos animais desaparecidos.
+
+![Homepage](https://user-images.githubusercontent.com/41563209/172692809-20e8b7bd-35b8-45c8-a6c0-4290c20635fe.png)
+
+**Requesitos atendidos**
+
 ### Tela de cadastro do pet ( RF-01 e RF-02  )
 
 A tela de cadastro de pet possibilita a postagem do pet com caracteristicas da especie do animal  e o local onde o pet foi encontrado/perdido.
