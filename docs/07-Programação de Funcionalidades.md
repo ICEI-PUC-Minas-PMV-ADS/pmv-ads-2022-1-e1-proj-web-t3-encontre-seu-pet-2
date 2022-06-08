@@ -11,10 +11,10 @@ A tela inicial, ou Homepage é o primeiro contato do usuário com a página. Nel
 
 
 **Requesitos atendidos**
--RF-01
--RF-02
--RF-03
--RF-04
+- RF-01
+- RF-02
+- RF-03
+- RF-04
 
 ### Tela de cadastro do pet ( RF-01 e RF-02  )
 
