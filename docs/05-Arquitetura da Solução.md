@@ -6,7 +6,8 @@ Nesta seção são apresentados os detalhes técnicos criados pela equipe, trata
 
 Os componentes que fazem parte da solução são apresentados na Figura que se segue.
 
-![Diagrama de Componentes](https://user-images.githubusercontent.com/103541634/164965622-25a356b6-5663-4142-84bd-c4be80d75cdf.png)
+![Arquitetura_Solução_01](https://user-images.githubusercontent.com/103541634/172956431-56f0852a-2c96-47d4-ac7e-0acb22e7c8ea.png)
+
 <!-- <center>Figura XX - Arquitetura da Solução</center> -->
 Arquitetura da Solução
 
@@ -24,7 +25,7 @@ A solução implementada conta com os seguintes módulos:
 
 As tecnologias utilizadas foram: CSS, HTML, JavaScript, Visual Sutudio Code, Github.
 
-![Diagrama de Componentes](https://user-images.githubusercontent.com/103541634/164966201-270fb724-402b-4c6f-afb1-c1bcb9239494.png)
+![Arquitetura_Solução_02](https://user-images.githubusercontent.com/103541634/172956512-22b87704-1672-4036-ae88-48d4ed9c9fd3.png)
 
 ## Hospedagem
 
