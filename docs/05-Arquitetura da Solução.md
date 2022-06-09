@@ -25,7 +25,7 @@ A solução implementada conta com os seguintes módulos:
 
 As tecnologias utilizadas foram: CSS, HTML, JavaScript, Visual Sutudio Code, Github.
 
-![Arquitetura_Solução_02](https://user-images.githubusercontent.com/103541634/172956512-22b87704-1672-4036-ae88-48d4ed9c9fd3.png)
+![Arquitetura_Solução_02](https://user-images.githubusercontent.com/103541634/172957159-b2795772-d066-43da-942a-41010dc50f1c.png)
 
 ## Hospedagem
 
