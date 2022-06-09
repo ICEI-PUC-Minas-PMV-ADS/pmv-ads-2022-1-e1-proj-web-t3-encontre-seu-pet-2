@@ -31,5 +31,10 @@ Esta é a tela de cadastramento do animal perdido
 
 ![Tela de Cadastro de Animais](https://user-images.githubusercontent.com/79429140/169433500-2d8231ee-2ef1-4abf-9399-ee26e9ce2b2f.png)
 
+### Tela de cadastro do Pet
+
+Esta é a tela de cadastro do Pet
+
+![Cadastro_Pet](https://user-images.githubusercontent.com/103541634/172899602-a16599f5-616c-45d0-8574-db08f85ec094.png)
 
 
