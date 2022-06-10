@@ -44,7 +44,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-004 | O site deve ter Inclusão/ alteração/ exclusão de informações dos animais cadastrados   |Alta |
 |RF-005 | O site deve notificar por e-mail o usuário quando seu animal for localizado  | Baixa |
 |RF-006 | O site deve ter um sistema de recompensa pelos usuários (Usuários interessados em recompensar quem localizar seu animal, poderão fazer uma doação para o terceiro |Baixa  |
-|RF-007 | O site deve permitir que usuários possam comentar nos posts do usuário | Média |
+|RF-007 | O site deve permitir que usuários possam descrever com detalhes os pets | Média |
 |RF-008 |O site deve exibir os comentários registrados juntamente com o post dos usuários sobre seus animais perdidos| Média |
 |RF-009 |O site deve permitir o compartilhamento do post de animais perdidos em plataformas de redes sociais |Baixa |
 
