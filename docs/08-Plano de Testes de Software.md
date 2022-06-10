@@ -22,6 +22,20 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 | Passos | 1) Acessar a tela principal. <br> 2) Acessar a barra de pesquisa. 
 |Criterio de Êxito| Conseguir acessar a postagem referente a pesquisa feita.
 
+|Caso de teste | Tela de cadastro de Pets |
+|--------------|--------------|
+|Requisitos associados| RF-001 O site deve ter cadastramento de usuários e seus animais perdidos. <br> RF-004	O site deve ter Inclusão / alteração / exclusão de informações dos animais cadastrados. <br> RF-007 O site deve permitir que usuários possam descrever com detalhes os pets.|
+|Objetivo do Teste |Certificar que as informações inseridas no cadastro sejam registradas no site.
+| Passos | 1) Acessar a tela de cadastro de pets. <br> 2) Inserir as informações. <br> 3) Enviar as informações.
+|Criterio de Êxito| Regsitrar as informações no site.
+
+|Caso de teste | Tela de cadastro de Pets |
+|--------------|--------------|
+|Requisitos associados| RF-004	O site deve ter Inclusão / alteração / exclusão de informações dos animais cadastrados. <br> RF-007 O site deve permitir que usuários possam descrever com detalhes os pets.|
+|Objetivo do Teste |Certificar que todas as lacunas sejam preenchidas.
+| Passos | 1) Acessar a tela de cadastro de pets. <br> 2) Inserir as informações. <br> 3) Enviar as informações. <br> 4) Receber o aviso que o campo é obrigatório e deve ser preenchido.
+|Criterio de Êxito| Notificar o usuário sobre a obrigatoriedade de preenchimento de todas os espaços.
+
 
 ## Ferramentas de Testes (Opcional)
 
