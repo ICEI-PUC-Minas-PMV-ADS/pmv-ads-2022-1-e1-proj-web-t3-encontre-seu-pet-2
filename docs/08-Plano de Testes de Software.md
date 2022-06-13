@@ -37,6 +37,15 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 |Criterio de Êxito| Notificar o usuário sobre a obrigatoriedade de preenchimento de todas os espaços.
 
 
+|Caso de teste | Tela de cadastro de Usuário |
+|--------------|--------------|
+|Requisitos associados| RF-001 O site deve ter cadastramento de usuários e seus animais perdidos.|
+|Objetivo do Teste |Certificar que as informações inseridas no cadastro sejam registradas no site, e só aceitar o cadastro se preencher todos os blocos.
+| Passos | 1) Acessar a tela de cadastro de usuário. <br> 2) Inserir as todas informações solicitadas. <br> 3) Enviar as informações.
+|Criterio de Êxito| Regsitrar as informações no site.
+
+
+
 ## Ferramentas de Testes (Opcional)
 
 Comente sobre as ferramentas de testes utilizadas.
