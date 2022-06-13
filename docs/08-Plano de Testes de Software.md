@@ -10,7 +10,7 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 
 |Caso de teste | Tela inicial |
 |--------------|--------------|
-|Requisitos associados| RF-001	O site deve ter cadastramento de usuários e seus animais perdidos. <br>RF-002	O site deve ter geolocalização, demonstrando onde o animal foi localizado.|
+|Requisitos associados| RF-001	O site deve ter cadastramento de usuários e seus animais perdidos. <br>RF-002	O site deve ter espaºo para observações do animal encontrado como cidade encontrado,tipo, nome e outras características.|
 |Objetivo do Teste | Verificar se as paginas estão se comunicando (HomePage , tela de login de usuario , tela de cadastro de usuario , tela de cadastro de pet ).
 | Passos | 1) Acessar a tela principal. <br> 2) Login/Cadastro. 
 |Criterio de Êxito| Conseguir acessar a tela de login/cadastro.
