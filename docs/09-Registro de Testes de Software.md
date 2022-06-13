@@ -10,3 +10,7 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
+
+## HomePage
+
+Durante os testes com o Javascript da Homepage. O campo de busca não comportou corretamente com o banco de dados que existia, portanto foi decidido por hora, retirar a searchbar até solucionar o campo de busca, isto é, inserir um banco de dados via arquivo ou pela função *get*, por meio de uma API.
