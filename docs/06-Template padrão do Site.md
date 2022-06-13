@@ -29,7 +29,7 @@ Essa tela possibilita ao usuario criar uma conta ou entrar em sua conta.
 
 Esta é a tela de cadastramento do animal perdido
 
-![Tela de Cadastro de Animais](https://user-images.githubusercontent.com/79429140/169433500-2d8231ee-2ef1-4abf-9399-ee26e9ce2b2f.png)
+![Tela de Cadastro de Animais](https://user-images.githubusercontent.com/79429140/173263308-a24cbaa9-3a22-41b7-ab01-e31a2feefaa0.png)
 
 
 
