@@ -21,8 +21,8 @@ Tela principal abrange todas as visualizações iniciais do site e a lista de no
 ### Tela de cadastro/login
 
 Essa tela possibilita ao usuario criar uma conta ou entrar em sua conta.
+![cadastro21](https://user-images.githubusercontent.com/103226164/173269735-cd1b09fb-e961-470a-a6dd-e530f4a70797.png)
 
-![PAGINA DE CADASTRO](https://user-images.githubusercontent.com/103226164/168504772-562b2eb6-90fe-447d-97f0-5a252574feee.jpeg)
 
 
 ### Tela de cadastro de animais
