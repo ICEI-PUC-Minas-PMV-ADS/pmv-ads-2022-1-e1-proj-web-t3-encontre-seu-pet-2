@@ -28,6 +28,16 @@ A tela de cadastro de pet possibilita a postagem do pet com caracteristicas da e
 - RF-02
 
 
+### Tela de cadastro do usuário ( RF-01  )
+
+ A tela de cadastro do usuário possibilita que quem for utilizar o aplicativo, realize um cadastro.
+ 
+![image](https://user-images.githubusercontent.com/96542702/173259118-7b42fe2a-ad04-4ea8-bf71-0a3a606ba246.png)
+
+**Requisito atendido**
+
+- RF -01
+
 
 
 
