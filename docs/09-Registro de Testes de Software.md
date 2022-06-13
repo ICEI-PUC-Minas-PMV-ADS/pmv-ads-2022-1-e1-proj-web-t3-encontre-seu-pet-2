@@ -10,6 +10,11 @@ Aqui consta um erro de "required" , não seria necessário pois acaba selecionad
 
 ![Falha em botões de Genêro](https://user-images.githubusercontent.com/79429140/173264476-8d498fd4-20a6-44a0-9986-eba886a87236.png)
 
+Erro também localizado nos botões de escola de porte do animal, nos próximos testes iremos corrigir tendo obrigatoriedade em selecionar apenas um botão.
+
+!Falha em botões de porte do animal](https://user-images.githubusercontent.com/79429140/173264956-45a70f7e-15f0-43d5-ae3f-57fdc8dd9a2b.png)
+
+
 
 Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
 
