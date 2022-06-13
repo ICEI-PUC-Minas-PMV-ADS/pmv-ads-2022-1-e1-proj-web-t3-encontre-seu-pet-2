@@ -7,6 +7,7 @@ O layout padrão do site corresponde ao projeto de interface, conforme a figura 
 O template criado está disponível no site http://github.com/.....  e é composto pelos seguintes 
 layouts: 
 -  tela principal
+-  tela principal após login
 -  tela de login/cadastro
 -  tela de cadastro de animais
 
@@ -15,7 +16,9 @@ layouts:
 
 Tela principal abrange todas as visualizações iniciais do site e a lista de notícias gerais.
 
-![print-Homepage01](https://user-images.githubusercontent.com/103226164/172517559-9f717dde-1af1-4110-a6ec-52b8f674e788.png)
+![home21](https://user-images.githubusercontent.com/103226164/173269950-38499afb-1c14-4b7e-9d05-78740bb954dd.png)
+
+
 
 
 ### Tela de cadastro/login
