@@ -27,4 +27,4 @@ Esta é a tela inicial antes do usuário se cadastrar em nosso site ou efetuar l
 ![tela principal 2](https://user-images.githubusercontent.com/103226164/172516969-b7dd264f-1044-48c0-815f-530de8089f77.png)
 
 
-Podemos ver pelo exemplo de Wireframe que esta é a página inicial do site quando acessado pela web tendo algumas interações iniciais, coom barra de pesquisa, sugestão de como alimentar seu pet, rastreador pela coleira do seu cachorro e algumas barras latereis.
+Podemos ver pelo exemplo de Wireframe que esta é a página inicial do site quando acessado pela web tendo algumas interações iniciais com login ou cadastra-se, e cards mostrando os pets que estão perdindo com algumas informações dos mesmos.
