@@ -24,6 +24,9 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 
 ## HomePage
 
+![home22](https://user-images.githubusercontent.com/103226164/173270203-36f7ecdb-e947-45e8-b4b2-3eec0d861111.png)
+
+
 Durante os testes com o Javascript da Homepage. O campo de busca não comportou corretamente com o banco de dados que existia, portanto foi decidido por hora, retirar a searchbar até solucionar o campo de busca, isto é, inserir um banco de dados via arquivo ou pela função *get*, por meio de uma API.
 
 ## Página de Cadastro de Usuário
