@@ -27,4 +27,7 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 Durante os testes com o Javascript da Homepage. O campo de busca não comportou corretamente com o banco de dados que existia, portanto foi decidido por hora, retirar a searchbar até solucionar o campo de busca, isto é, inserir um banco de dados via arquivo ou pela função *get*, por meio de uma API.
 
 ## Página de Cadastro de Usuário
+
+![cadastro21](https://user-images.githubusercontent.com/103226164/173269735-cd1b09fb-e961-470a-a6dd-e530f4a70797.png)
+
 No cadastro de usuários, houve um erro no Javascript que não retornava o usuário cadastrado. Felizmente, foi contornado o erro.
