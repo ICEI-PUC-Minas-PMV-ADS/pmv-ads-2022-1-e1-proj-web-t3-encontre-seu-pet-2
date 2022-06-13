@@ -6,6 +6,11 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 
 ## Avaliação
 
+Aqui consta um erro de "required" , não seria necessário pois acaba selecionado ambos e não dando andamento a próxima página.
+
+![Falha em botões de Genêro](https://user-images.githubusercontent.com/79429140/173264476-8d498fd4-20a6-44a0-9986-eba886a87236.png)
+
+
 Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
 
 > **Links Úteis**:
