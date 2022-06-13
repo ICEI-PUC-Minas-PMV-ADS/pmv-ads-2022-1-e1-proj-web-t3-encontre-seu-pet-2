@@ -7,7 +7,7 @@ apresentadas na sequência.
 ### Tela Inicial ou também conhecida como Homepage( RF-01,RF-02,RF-03 e RF-04)
 A tela inicial, ou Homepage é o primeiro contato do usuário com a página. Nela se encontra o acesso as demais páginas e conteúdo dos animais desaparecidos.
 
-![Homepage](https://user-images.githubusercontent.com/41563209/172692809-20e8b7bd-35b8-45c8-a6c0-4290c20635fe.png)
+![Homepage](![image](https://user-images.githubusercontent.com/41563209/173259878-58c1a5a9-b841-4035-a7a5-e8fcb472b9c2.png))
 
 
 **Requesitos atendidos**
