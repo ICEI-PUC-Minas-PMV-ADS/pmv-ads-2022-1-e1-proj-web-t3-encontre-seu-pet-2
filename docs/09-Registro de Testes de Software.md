@@ -12,7 +12,8 @@ Aqui consta um erro de "required" , não seria necessário pois acaba selecionad
 
 Erro também localizado nos botões de escola de porte do animal, nos próximos testes iremos corrigir tendo obrigatoriedade em selecionar apenas um botão.
 
-!Falha em botões de porte do animal](https://user-images.githubusercontent.com/79429140/173264956-45a70f7e-15f0-43d5-ae3f-57fdc8dd9a2b.png)
+![Falha em botões de porte do animal](https://user-images.githubusercontent.com/79429140/173265429-a10e4e21-d5cb-4c53-98de-8d918551f552.png)
+
 
 
 
