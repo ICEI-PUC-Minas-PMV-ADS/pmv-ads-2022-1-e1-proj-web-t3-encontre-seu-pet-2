@@ -20,7 +20,7 @@ A tela inicial, ou Homepage é o primeiro contato do usuário com a página. Nel
 
 A tela de cadastro de pet possibilita a postagem do pet com caracteristicas da especie do animal  e o local onde o pet foi encontrado/perdido.
 
-![Tela de Cadastro de Animais](https://user-images.githubusercontent.com/79429140/169433500-2d8231ee-2ef1-4abf-9399-ee26e9ce2b2f.png)
+![Tela de Cadastro de Animais](https://user-images.githubusercontent.com/79429140/173263177-81051037-3d40-45c5-8d4a-7260e8bb07f2.png)
 
 
 **Requisitos atendidos**
