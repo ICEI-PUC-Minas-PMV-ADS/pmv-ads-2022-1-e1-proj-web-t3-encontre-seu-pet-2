@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="assets/css/style.css" />
+    <link rel="stylesheet" href="assets/css/cadastropet.css" />
     <title>Encontre seu Pet</title>
   </head>
 
@@ -25,9 +25,8 @@
             <div class="input-box">
               <h2>Nome do Pet</h2>
               <input
-                id="Nome-do-Pet"
+                id="nome"
                 type="text"
-                name="Nome-do-Pet"
                 placeholder="Digite o nome do pet"
                 required
               />
@@ -40,25 +39,24 @@
 
               <div class="gender-group">
                 <div class="gender-input">
-                  <input type="radio" id="Pequeno" name="Porte" />
+                  <input type="radio" id="pequeno" value="pequeno" />
                   <small form="Pequeno">Pequeno</small>
 
                   <div class="gender-group">
                     <div class="gender-input">
-                      <input type="radio" id="Médio" name="Porte" />
+                      <input type="radio" id="medio" value="medio" />
                       <small form="Médio">Médio</small>
 
                       <div class="gender-group">
                         <div class="gender-input">
-                          <input type="radio" id="Grande" name="Grande" />
+                          <input type="radio" id="grande" value="grande" />
                           <small form="Grande">Grande</small>
 
                           <div class="input-box">
                             <h2>Raça do Pet</h2>
                             <input
-                              id="Raca-Do-Pet"
+                              id="raca-do-pet"
                               type="text"
-                              name="Raca-do-Pet"
                               placeholder="Informe se seu pet é cão ou gato e a raça dele "
                               required
                             />
@@ -67,9 +65,8 @@
                           <div class="input-box">
                             <h3>Acessório</h3>
                             <input
-                              id="Acessorio"
+                              id="acessorio"
                               type="text"
-                              name="Acessório"
                               placeholder="Seu pet possuia algum acessório? ..."
                               required
                             />
@@ -80,7 +77,6 @@
                             <input
                               id="telefone"
                               type="tel"
-                              name="telefone"
                               placeholder="(xx) xxxxx-xxxx"
                               required
                             />
@@ -89,9 +85,8 @@
                           <div class="input-box">
                             <h3>Endereço</h3>
                             <input
-                              id="Endereco"
+                              id="endereco"
                               type="text"
-                              name="Endereco"
                               placeholder="Informe o local de desaparecimento do seu pet..."
                               required
                             />
@@ -134,7 +129,7 @@
                             <input type="file" id="upload" hidden />
                             <label for="upload">Pet foto!</label>
 
-                            <button>
+                            <button onclick="cadastrarpet()">
                               <!-- Botão criado de ENVIAR da linha 96 a 101 -->
                               <div class="svg-wrapper-1">
                                 <div class="svg-wrapper">
@@ -166,5 +161,6 @@
         </form>
       </div>
     </div>
+    <script src="./localstorage.js"></script>
   </body>
 </html>
