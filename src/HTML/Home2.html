@@ -32,7 +32,7 @@
 
         <div class="col-sm-3 my-1">
             <div class="input-group">
-              <input class="form-control" type="search" placeholder="Pesquisar" aria-label="Search" style="border-right: none;">
+              <input class="form-control" id="search-input" type="search" placeholder="Pesquisar" aria-label="Search" style="border-right: none;">
               <div class="input-group-append">
                 <div class="input-group-text" style="background-color: #FFF"><i class="fas fa-search"></i></div>
               </div>
@@ -210,12 +210,12 @@
     function FilterList(){
         console.log("Função ok")
         const searchInput=document.querySelector('#search-input')//id="search-input" lá no campo de busca 
-        var filtro = searchInput.value.toLowerCase()
-         var listItems = document.querySelectorAll('.card-body')//classe onde está todas info a serem buscadas
+        const filter = searchInput.value.toLowerCase()
+        const listItems = document.querySelectorAll('.card-body')//classe onde está todas info a serem buscadas
         console.log("Função ainda ok")
         listItems.forEach((item) =>{ 
             let text = item.textContent
-            if(text.toLowerCase().includes(filtro.toLowerCase())){
+            if(text.toLowerCase().includes(filter.toLowerCase())){
                 item.style.display = ''
                 console.log("Aqui deveria aparecer somente a busca")
             }
@@ -226,7 +226,8 @@
         })
     }
 
-     
+        
+//a.addEventListener("click",funProcura);
 </script>
 
 </body>
