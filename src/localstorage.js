@@ -1,4 +1,4 @@
-function cadastrarpet(){
+function CadastroPet(){
   const petsCadastrados = JSON.parse(localStorage.getItem('petsCadastrados')) || [];
   const dados = {
     nomeDoPet:document.querySelector("#nome").value,
