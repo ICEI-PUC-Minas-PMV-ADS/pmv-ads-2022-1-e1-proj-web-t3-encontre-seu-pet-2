@@ -29,6 +29,7 @@
              <h1>Encontre seu pet</h1>
         </div>
         <ul class="navbar-nav">
+            <input class="form-control" id="search-input" type="search" placeholder="Pesquisar" aria-label="Search" style="border-right: none;">
           <li class="nav-item">
             <a class="btn btn-primary" href="CadastroUsuario.html" role="button">Login/Cadastro</a>
           </li>
@@ -216,8 +217,32 @@
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+    document.querySelector('#search-input') //id="search-input" lá no campo de busca
+    addEventListener('input',FilterList)//Se clicar no texto, aciona a função
 
-<script src="./Assets/js/scripts.js"></script>
+    function FilterList(){
+        console.log("Função ok")
+        const searchInput=document.querySelector('#search-input')//id="search-input" lá no campo de busca 
+        const filter = searchInput.value.toLowerCase()
+        const listItems = document.querySelectorAll('.card-body')//classe onde está todas info a serem buscadas
+        console.log("Função ainda ok")
+        listItems.forEach((item) =>{ 
+            let text = item.textContent
+            if(text.toLowerCase().includes(filter.toLowerCase())){
+                item.style.display = ''
+                console.log("Aqui deveria aparecer somente a busca")
+            }
+            else{
+                item.style.display='none'
+                console.log("Aqui deveria aparecer nada")
+            }
+        })
+    }
+
+        
+//a.addEventListener("click",funProcura);
+</script>
 </body>
 
 
