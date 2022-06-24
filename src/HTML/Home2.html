@@ -203,32 +203,7 @@
             <p>Com o " Encontre seu Pet " você pode divulgar o Pet desaparecido ou encontrado.</p>
         </section>
     </footer>
-<script>
-    document.querySelector('#search-input') //id="search-input" lá no campo de busca
-    addEventListener('input',FilterList)//Se clicar no texto, aciona a função
 
-    function FilterList(){
-        console.log("Função ok")
-        const searchInput=document.querySelector('#search-input')//id="search-input" lá no campo de busca 
-        const filter = searchInput.value.toLowerCase()
-        const listItems = document.querySelectorAll('.card-body')//classe onde está todas info a serem buscadas
-        console.log("Função ainda ok")
-        listItems.forEach((item) =>{ 
-            let text = item.textContent
-            if(text.toLowerCase().includes(filter.toLowerCase())){
-                item.style.display = ''
-                console.log("Aqui deveria aparecer somente a busca")
-            }
-            else{
-                item.style.display='none'
-                console.log("Aqui deveria aparecer nada")
-            }
-        })
-    }
-
-        
-//a.addEventListener("click",funProcura);
-</script>
 
 </body>
 
