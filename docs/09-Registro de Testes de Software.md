@@ -6,7 +6,13 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 
 ## HomePage
 
-O site possui filtros de buscas por espécie, raça e características. Exemplo: Cachorro, Husky, Grande Porte de acordo com os requisitos RF-003.<br>
+O site possui filtros de buscas por espécie, raça e características. Exemplo: Cachorro, Husky, Grande Porte de acordo com o requisito RF-003.<br>
+O site possui cadastramento de usuários e seus animais perdidos de acordo com o requisto RF-001.<br>
+O site possui Inclusão / alteração / exclusão de informações dos animais cadastrados de acordo com o requisito RF-004.<br>
+O site permitir que usuários possam descrever com detalhes os pets de acordo com o requisito RF-007.
+
+
+
 <b>Conclusão:</b> O teste foi satisfatório.
 
 ![02-Noticias](https://user-images.githubusercontent.com/103541634/175831495-10e624da-c79e-481c-96fa-62d0ca04354b.png)
