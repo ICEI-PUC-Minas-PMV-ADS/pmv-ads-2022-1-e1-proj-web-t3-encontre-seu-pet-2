@@ -18,7 +18,7 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 
 ## HomePage
 
-Na tela inicial, é possível acessar a tela principal tal como Login e cadastro de acordo com os requisitos RF-001 e RF-002.<br>
+O site deve ter filtros de buscas por espécie, raça e características. Exemplo: Cachorro, Husky, Grande Porte de acordo com os requisitos RF-003.<br>
 <b>Conclusão:</b> O teste foi satisfatório.
 
 ![02-Noticias](https://user-images.githubusercontent.com/103541634/175830948-f77038a7-6fa3-4981-b38f-142ee9fd7f9d.png)
