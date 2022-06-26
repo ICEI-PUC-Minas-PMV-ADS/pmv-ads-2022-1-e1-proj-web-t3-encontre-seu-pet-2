@@ -4,6 +4,18 @@
 
 Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
 
+## HomePage
+
+O site deve ter filtros de buscas por espécie, raça e características. Exemplo: Cachorro, Husky, Grande Porte de acordo com os requisitos RF-003.<br>
+<b>Conclusão:</b> O teste foi satisfatório.
+
+![02-Noticias](https://user-images.githubusercontent.com/103541634/175831495-10e624da-c79e-481c-96fa-62d0ca04354b.png)
+
+Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+
+> **Links Úteis**:
+> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
+
 ## Página de Cadastro de Animais
 
 Na página de cadastro de animais, é possível acessar a tela principal tal como Login e cadastro de acordo com os requisitos RF-001 e RF-002.<br>
@@ -11,17 +23,6 @@ Na página de cadastro de animais, é possível acessar a tela principal tal com
 
 ![01-CadastroPet](https://user-images.githubusercontent.com/103541634/175829777-05644418-1e79-472e-8de0-265bd487ee1c.png)
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
-
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-
-## HomePage
-
-O site deve ter filtros de buscas por espécie, raça e características. Exemplo: Cachorro, Husky, Grande Porte de acordo com os requisitos RF-003.<br>
-<b>Conclusão:</b> O teste foi satisfatório.
-
-![02-Noticias](https://user-images.githubusercontent.com/103541634/175831495-10e624da-c79e-481c-96fa-62d0ca04354b.png)
 
 
 ## Página de Cadastro de Usuário
