@@ -7,10 +7,6 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 ## HomePage
 
 O site possui filtros de buscas por espécie, raça e características. Exemplo: Cachorro, Husky, Grande Porte de acordo com o requisito RF-003.<br>
-O site possui cadastramento de usuários e seus animais perdidos de acordo com o requisto RF-001.<br>
-O site possui Inclusão / alteração / exclusão de informações dos animais cadastrados de acordo com o requisito RF-004.<br>
-O site permitir que usuários possam descrever com detalhes os pets de acordo com o requisito RF-007.
-
 
 
 <b>Conclusão:</b> O teste foi satisfatório.
@@ -25,6 +21,10 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 ## Página de Cadastro de Animais
 
 Na página de cadastro de animais, é possível acessar a tela principal tal como Login e cadastro de acordo com os requisitos RF-001 e RF-002.<br>
+A página possui cadastramento de usuários e seus animais perdidos de acordo com o requisto RF-001.<br>
+A página possui Inclusão / alteração / exclusão de informações dos animais cadastrados de acordo com o requisito RF-004.<br>
+A página permitir que usuários possam descrever com detalhes os pets de acordo com o requisito RF-007.<br>
+
 <b>Conclusão:</b> O teste foi satisfatório.
 
 ![01-CadastroPet](https://user-images.githubusercontent.com/103541634/175829777-05644418-1e79-472e-8de0-265bd487ee1c.png)
