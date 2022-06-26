@@ -9,7 +9,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 Na página de cadastro de animais, é possível acessar a tela principal tal como Login e cadastro de acordo com os requisitos RF-001 e RF-002.<br>
 <b>Conclusão:</b> O teste foi satisfatório.
 
-![01-CadastroPet](https://user-images.githubusercontent.com/103541634/175828746-4ffeef96-dd62-4e55-b37b-95ca4a6caaa3.png)
+![01-CadastroPet](https://user-images.githubusercontent.com/103541634/175829777-05644418-1e79-472e-8de0-265bd487ee1c.png)
 
 Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
 
