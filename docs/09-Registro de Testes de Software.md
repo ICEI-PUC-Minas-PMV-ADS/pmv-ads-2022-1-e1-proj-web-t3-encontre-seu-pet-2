@@ -21,7 +21,7 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 O site deve ter filtros de buscas por espécie, raça e características. Exemplo: Cachorro, Husky, Grande Porte de acordo com os requisitos RF-003.<br>
 <b>Conclusão:</b> O teste foi satisfatório.
 
-![02-Noticias](https://user-images.githubusercontent.com/103541634/175830948-f77038a7-6fa3-4981-b38f-142ee9fd7f9d.png)
+![02-Noticias](https://user-images.githubusercontent.com/103541634/175831495-10e624da-c79e-481c-96fa-62d0ca04354b.png)
 
 
 ## Página de Cadastro de Usuário
