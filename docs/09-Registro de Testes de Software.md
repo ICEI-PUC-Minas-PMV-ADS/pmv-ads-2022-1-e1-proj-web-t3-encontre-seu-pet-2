@@ -34,6 +34,17 @@ A página permitir que usuários possam descrever com detalhes os pets de acordo
 
 ## Página de Cadastro de Usuário
 
-![cadastro21](https://user-images.githubusercontent.com/103226164/173269735-cd1b09fb-e961-470a-a6dd-e530f4a70797.png)
+A página possui cadastramento de usuários e seus animais perdidos de acordo com o requisito RF-001.<br>
+Foi verificado de as informações inseridas no cadastro sejam registradas no site, foi verificado que só aceita o cadastro se preencher todos os blocos. (Não atende) <br>
+Foi verficado o acesso a tela de cadastro de usuário. (Atende) <br>
+É possível inserir as todas informações solicitadas. (Atende) <br>
+Envio das informações. (Não atende) <br>
 
-No cadastro de usuários, houve um erro no Javascript que não retornava o usuário cadastrado. Felizmente, foi contornado o erro.
+<b>Conclusão:</b> O teste não foi satisfatório.
+
+![03-Login](https://user-images.githubusercontent.com/103541634/175834257-48cb0e2b-1b82-4eaf-9991-b45bec22e31f.png)
+
+![03-Login_02](https://user-images.githubusercontent.com/103541634/175834274-c388f724-5b62-4121-9f00-964308b76deb.png)
+
+
+
