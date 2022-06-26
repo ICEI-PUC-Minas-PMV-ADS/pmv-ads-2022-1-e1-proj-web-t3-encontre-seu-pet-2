@@ -18,10 +18,11 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 
 ## HomePage
 
-![home22](https://user-images.githubusercontent.com/103226164/173270203-36f7ecdb-e947-45e8-b4b2-3eec0d861111.png)
+Na tela inicial, é possível acessar a tela principal tal como Login e cadastro de acordo com os requisitos RF-001 e RF-002.<br>
+<b>Conclusão:</b> O teste foi satisfatório.
 
+![02-Noticias](https://user-images.githubusercontent.com/103541634/175830948-f77038a7-6fa3-4981-b38f-142ee9fd7f9d.png)
 
-Durante os testes com o Javascript da Homepage. O campo de busca não comportou corretamente com o banco de dados que existia, portanto foi decidido por hora, retirar a searchbar até solucionar o campo de busca, isto é, inserir um banco de dados via arquivo ou pela função *get*, por meio de uma API.
 
 ## Página de Cadastro de Usuário
 
