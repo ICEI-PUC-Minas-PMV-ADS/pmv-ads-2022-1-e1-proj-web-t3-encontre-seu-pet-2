@@ -6,16 +6,10 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 
 ## Página de Cadastro de Animais
 
-Aqui consta um erro de "required" , não seria necessário pois acaba selecionado ambos e não dando andamento a próxima página.
+Na página de cadastro de animais, é possível acessar a tela principal tal como Login e cadastro de acordo com os requisitos RF-001 e RF-002.<br>
+<b>Conclusão:</b> O teste foi satisfatório.
 
-![Falha em botões de Genêro](https://user-images.githubusercontent.com/79429140/173264476-8d498fd4-20a6-44a0-9986-eba886a87236.png)
-
-Erro também localizado nos botões de escola de porte do animal, nos próximos testes iremos corrigir tendo obrigatoriedade em selecionar apenas um botão.
-
-![Falha em botões de porte do animal](https://user-images.githubusercontent.com/79429140/173265429-a10e4e21-d5cb-4c53-98de-8d918551f552.png)
-
-
-
+![01-CadastroPet](https://user-images.githubusercontent.com/103541634/175828746-4ffeef96-dd62-4e55-b37b-95ca4a6caaa3.png)
 
 Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
 
