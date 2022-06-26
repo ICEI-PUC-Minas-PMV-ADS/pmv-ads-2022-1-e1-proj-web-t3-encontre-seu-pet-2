@@ -7,6 +7,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 ## HomePage
 
 O site possui filtros de buscas por espécie, raça e características. Exemplo: Cachorro, Husky, Grande Porte de acordo com o requisito RF-003.<br>
+Foi executado o teste na barra de pesquisa, foi verificado que está filtrando as postagens de forma correta.<br>
 
 
 <b>Conclusão:</b> O teste foi satisfatório.
