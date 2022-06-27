@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../CSS/CadastroPet.css" />
+    <title>Encontre seu Pet</title>
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="form-image">
+        <img src="../img/cadastroPetimg.svg" />
+      </div>
+      <div class="form">
+        <form action="#">
+          <div class="form-header">
+            <div class="title">
+              <h1>Perfil do Pet</h1>
+            </div>
+          </div>
+
+          <div class="input-group">
+            <div class="input-box">
+              <h2>Nome do Pet</h2>
+              <input
+                id="nome"
+                type="text"
+                placeholder="Digite o nome do pet"
+                required
+              />
+            </div>
+
+            <div class="gender-inputs">
+              <div class="gender-title">
+                <h2>Porte do Pet</h2>
+              </div>
+
+              <div class="gender-group">
+                <div class="gender-input">
+                  <input type="radio" id="pequeno" value="pequeno" />
+                  <small form="Pequeno">Pequeno</small>
+
+                  <div class="gender-group">
+                    <div class="gender-input">
+                      <input type="radio" id="medio" value="medio" />
+                      <small form="Médio">Médio</small>
+
+                      <div class="gender-group">
+                        <div class="gender-input">
+                          <input type="radio" id="grande" value="grande" />
+                          <small form="Grande">Grande</small>
+
+                          <div class="input-box">
+                            <h2>Raça do Pet</h2>
+                            <input
+                              id="raca-do-pet"
+                              type="text"
+                              placeholder="Informe se seu pet é cão ou gato e a raça dele "
+                              required
+                            />
+                          </div>
+
+                          <div class="input-box">
+                            <h3>Acessório</h3>
+                            <input
+                              id="acessorio"
+                              type="text"
+                              placeholder="Seu pet possuia algum acessório? ..."
+                              required
+                            />
+                          </div>
+
+                          <div class="input-box">
+                            <h3>Telefone de Contato</h3>
+                            <input
+                              id="telefone"
+                              type="tel"
+                              placeholder="(xx) xxxxx-xxxx"
+                              required
+                            />
+                          </div>
+
+                          <div class="input-box">
+                            <h3>Endereço</h3>
+                            <input
+                              id="endereco"
+                              type="text"
+                              placeholder="Informe o local de desaparecimento do seu pet..."
+                              required
+                            />
+                          </div>
+                        </div>
+
+                        <div class="gender-inputs">
+                          <div class="gender-title">
+                            <h2>Gênero</h2>
+                          </div>
+
+                          <div class="gender-group">
+                            <div class="gender-input">
+                              <input type="radio" id="female" name="female" />
+                              <small form="female">Fêmea</small>
+
+                              <div class="gender-group">
+                                <div class="gender-input">
+                                  <input type="radio" id="male" name="male" />
+                                  <small form="male">Macho</small>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+
+                          <div class="row">
+                            <small for="Fale sobre seu Pet"></small>
+                          </div>
+
+                          <div class="row">
+                            <textarea
+                              name="description"
+                              id="description"
+                              cols="40"
+                              rows="10"
+                              placeholder="Fale como seu pet desapareceu..."
+                              required
+                            ></textarea>
+
+                            <input type="file" id="upload" hidden />
+                            <label for="upload">Pet foto!</label>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </form>
+        <button onclick="cadastrarpet()">
+          <!-- Botão criado de ENVIAR da linha 96 a 101 -->
+          <div class="svg-wrapper-1">
+            <div class="svg-wrapper">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24"
+                width="24"
+                height="24"
+              >
+                <path fill="none" d="M0 0h24v24H0z"></path>
+                <path
+                  fill="currentColor"
+                  d="M1.946 9.315c-.522-.174-.527-.455.01-.634l19.087-6.362c.529-.176.832.12.684.638l-5.454 19.086c-.15.529-.455.547-.679.045L12 14l6-8-8 6-8.054-2.685z"
+                ></path>
+              </svg>
+            </div>
+          </div>
+          <span class="Enviar">Enviar</span>
+        </button>
+      </div>
+    </div>
+    <script src="../localstorage.js"></script>
+  </body>
+</html>
