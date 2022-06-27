@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #3260cc;
+}
+
+.container {
+    width: 80%;
+    height: 80vh;
+    overflow: auto;
+    display: flex;
+    box-shadow: 5px 5px 10px rgba(0,0,0,2);
+}
+
+.form-header h1::after{
+    content: '';
+    display: block;
+    width: 5rem;
+    height: 0.3rem;
+    background-color: #f28a2e;
+    border-radius: 10px;
+}
+
+.form-image{
+    width: 60%;
+}
+
+.form-image img{
+    width: 100%;
+}
+
+.form {
+    width: 40%;
+}
+
+.input-box {
+    width: 100%;
+    padding: 10px;
+}
+
+.input-box small{
+    display: block;
+    margin: 5px 0px;
+}
+
+.input-box input{
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: unset;
+}
+
+button { /* Botão de ENVIAR criado até a linha 114 */
+    font-family: inherit;
+    font-size: 20px;
+    background: #f28a2e;
+    color: white;
+    padding: 0.7em 1em;
+    padding-left: 0.9em;
+    display: flex;
+    align-items: center;
+    border: none;
+    border-radius: 16px;
+    overflow: hidden;
+    transition: all 0.2s;
+}
+
+button span {
+    display: block;
+    margin-left: 0.3em;
+    transition: all 0.3s ease-in-out;
+}
+
+button svg {
+    display: block;
+    transform-origin: center center;
+    transition: transform 0.3s ease-in-out;
+}
+
+button:hover .svg-wrapper {
+    animation: fly-1 0.6s ease-in-out infinite alternate;
+}
+
+button:hover svg {
+    transform: translateX(1.2em) rotate(45deg) scale(1.1);
+}
+
+button:hover span {
+    transform: translateX(5em);
+}
+
+button:active {
+    transform: scale(0.95);
+}
+
+@keyframes fly-1 {
+    from {
+transform: translateY(0.1em);
+    }
+
+    to {
+transform: translateY(-0.1em);
+    }
+
+}
+
+label{
+    display: inline-block;
+    background-color: #f28a2e;
+    color: white;
+    padding: 0.5rem;
+    font-family: sans-serif;
+    border-radius: 0.3rem;
+    cursor: pointer;
+    margin-top: 1rem;
+}
