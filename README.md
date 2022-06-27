@@ -6,7 +6,7 @@
 
 `1 SEMESTRE`
 
-O objetivo geral do projeto é promover uma plataforma digital, onde usuários possam trocar informações sobre seus pets perdidos, facilitando assim, a busca e o retorno do pet para seu lar.
+O objetivo geral do projeto é promover uma plataforma digital, onde usuários possam trocar informações sobre seus pets perdidos, facilitando assim, a busca e o retorno do pet para seu lar
 
 ## Integrantes
 
