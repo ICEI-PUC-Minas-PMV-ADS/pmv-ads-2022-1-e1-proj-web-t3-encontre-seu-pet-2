@@ -6,12 +6,12 @@
 
 ## Identidade Visual 
 
-Após um estudo de cores, o grupo decidiu usar a seguinte paleta de cores:
-#3260cc
-#f28a2e
-#0f0c29
-#24243e
-#d46509
+Após um estudo de cores, o grupo decidiu usar a seguinte paleta de cores: <br>
+#3260cc <br>
+#f28a2e <br>
+#0f0c29 <br>
+#24243e <br>
+#d46509 <br>
 
 ## Conjunto de Slides 
 
