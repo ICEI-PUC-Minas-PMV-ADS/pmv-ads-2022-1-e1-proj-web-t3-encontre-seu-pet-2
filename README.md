@@ -43,7 +43,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Código
 
-<li><a href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-encontre-seu-pet-2/src/Encontre seu Pet site/> Código Fonte</a></li>
+<li><a href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-encontre-seu-pet-2/src/Encontre seu Pet site/"> Código Fonte</a></li>
 
 
 
