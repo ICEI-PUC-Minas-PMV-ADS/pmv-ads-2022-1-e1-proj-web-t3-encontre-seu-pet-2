@@ -1,0 +1,25 @@
+message: Please cite this software using these metadata.
+title: Encontre seu Pet
+authors:
+  - family-names: Filippe De Assis Soares Leão
+    given-names:  Hiago 
+  - family-names: Guimarães Costa Rocha
+    given-names: Marcos 
+  - family-names: Luiz Vidal
+    given-names: Marcos 
+  - family-names: Pereira Dionisio
+    given-names: Matheus  
+  - family-names: Liberato De Abreu
+    given-names: Nathália 
+  - family-names: Andrade Roquette
+    given-names: Sávio
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Christina De Paiva Carvalho
+    given-names: Joyce 
+keywords:
+  - Animais perdidos
+  - Pet
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-encontre-seu-pet-2
+version: 1.0.0
+date-released: 2024-23-06
